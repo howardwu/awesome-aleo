@@ -62,7 +62,8 @@ Help fill me in!
 
 ### Decentralized Finance (DeFi)
 
-- [ARC20](https://github.com/Entropy1729/ARC20_leo) - An ARC20 token proposal
+- [aleo/token](https://github.com/AleoHQ/aleo/tree/testnet3/examples/token) - An Aleo custom asset example
+- [ARC20 draft](https://github.com/Entropy1729/ARC20_leo) - An ARC20 token draft proposal
 
 ### Identity
 
