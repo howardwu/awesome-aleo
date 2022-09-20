@@ -8,7 +8,7 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
 
 - [Announcements and News](#announcements-and-news)
 - [Tutoritals & Talks](#tutorials-and-talks)
-- [Research Papers](#research-papers)
+- [Research Papers & Resources](#research-papers-and-resources)
 - [Core Libraries](#core-libraries)
 - [Development Tools](#development-tools)
     - [Decompilers](#decompilers)
@@ -33,18 +33,19 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
 - [Week In Aleo News - Telegram](https://t.me/aleoweeklynews) (Unofficial) This Week in Aleo
 - [This Week in Aleo](https://www.weekinaleonews.com/) The unofficial newsletter for Aleo developer updates
 
-## Tutorials and Talks
+## Tutorials & Talks
 
 - [Demystifying Zero-Knowledge Programming](https://youtu.be/5hO9NbtFc0g?t=2069) - Introduction to the Aleo account model and the Leo programming model
 - [An introduction to Aleo](https://www.entropy1729.com/aleo-introduction/) - An introduction to the core concepts of programming in Aleo
 - [Aleo Development Starter Pack](https://www.entropy1729.com/aleo-development-starter-pack/) - Overview of how to write Aleo instructions
 - [Fully-Private Applications: The Zexe Protocol](https://www.entropy1729.com/zexe/) - An introduction to a decentralized ledger for fully-private applications
 
-## Research Papers
+## Research Papers & Resources
 
 - [Zexe](https://eprint.iacr.org/2018/962.pdf) - Zexe: Enabling Decentralized Private Computation
 - [Leo](https://eprint.iacr.org/2021/651.pdf) - Leo: A Programming Language for Formally Verified,
   Zero-Knowledge Applications
+- [AVM Opcodes](https://github.com/AleoHQ/ARCs/tree/master/arc-0002) - Aleo Virtual Machine (AVM) Opcodes
 
 ## Core Libraries
 
