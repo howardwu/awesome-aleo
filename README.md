@@ -120,7 +120,7 @@ The following is a curated list of applications powered by Aleo.
 
 - [Aleo Explorer](https://www.aleo.network/) - The official blockchain explorer for Aleo
 
-### Identity
+### Identity & Authentication
 
 - [Nemean](https://github.com/AleoHQ/nemean) - A CLI and SDK for custodians and engineers to interact with the Aleo network
     - [Pine Street Labs](https://www.aleo.org/post/aleo-grants-pine-street-labs) - Fireside Chat with Aleo Grantee: Pine Street Labs
