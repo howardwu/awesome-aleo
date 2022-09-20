@@ -8,8 +8,8 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
 
 - [Core Libraries](#core-libraries)
 - [Development Tools](#development-tools)
-    - [Syntax Highlighters](#syntax-highlighters)
     - [Decompilers](#decompilers)
+    - [Syntax Highlighters](#syntax-highlighters)
 - [Applications](#applications)
     - [Art](#art)
     - [Authentication](#authentication)
