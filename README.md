@@ -49,10 +49,11 @@ The following is a curated list of applications powered by Aleo.
 
 ### Algorithms
 
+- [fixed-point numbers](https://github.com/zeroknowledgetutorials/leo-fixed-point-numbers) - An implementation of fixed-point numbers and calculations in Leo
+- [is_prime](https://github.com/arosboro/is_prime) - An Aleo program to issue prime tokens 
 - [leo/bubblesort](https://github.com/AleoHQ/leo/tree/testnet3/examples/bubblesort) - A bubble-sort algorithm implementation in Leo
 - [leo/groups](https://github.com/AleoHQ/leo/tree/testnet3/examples/groups) - An example of group operations in Leo
 - [leo/twoadicity](https://github.com/AleoHQ/leo/tree/testnet3/examples/twoadicity) - An implementation of computing the two-adicity in Leo
-- [is_prime](https://github.com/arosboro/is_prime) - An Aleo program to issue prime tokens 
 
 ### Art
 
