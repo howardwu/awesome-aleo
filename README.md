@@ -7,7 +7,7 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
 ## Table of Contents
 
 - [Core Libraries](#core-libraries)
-- [Development](#development)
+- [Development Tools](#development-tools)
     - [Syntax Highlighters](#syntax-highlighters)
 - [Applications](#applications)
     - [Art](#art)
@@ -27,7 +27,7 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
 - [snarkOS](https://github.com/AleoHQ/snarkOS) - A Decentralized Operating System for Zero-Knowledge Applications
 - [snarkVM](https://github.com/AleoHQ/snarkVM) - A Virtual Machine for Zero-Knowledge Executions
 
-## Development
+## Development Tools
 
 ### Syntax Highlighters
 
@@ -48,7 +48,7 @@ Help fill me in!
 
 ### Decentralized Finance (DeFi)
 
-Help fill me in!
+- [ARC20](https://github.com/Entropy1729/ARC20_leo) - An ARC20 token proposal
 
 ### Identity
 
@@ -56,12 +56,12 @@ Help fill me in!
 
 ### Gaming
 
-- [Battleship](https://github.com/demox-labs/zk-battleship)
-- [Roulette](https://github.com/Entropy1729/aleo_roulette)
+- [Battleship](https://github.com/demox-labs/zk-battleship) - ZK Battleship on Aleo
+- [Roulette](https://github.com/Entropy1729/aleo_roulette) - A Roulette web app built on Aleo
 
 ### Governance
 
-Help fill me in!
+- [Aleo-Vote](https://github.com/zkprivacy/aleo-vote) - A ZK voting application on Aleo
 
 ### Machine Learning
 
