@@ -12,12 +12,13 @@ If you want to contribute, please read [this]().
 - [Identity](#identity)
 - [Gaming](#gaming)
 - [Governance](#governance)
+- [Machine Learning](#machine-learning)
 - [Marketplaces](#marketplaces)
 - [Oracles](#oracles)
 
 ## Art
 
-Help fill me in!
+- [Setup Ceremony NFTs](https://opensea.io/collection/fluctuations-by-aleo)
 
 ## Authentication
 
@@ -36,6 +37,10 @@ Help fill me in!
 Help fill me in!
 
 ## Governance
+
+Help fill me in!
+
+## Machine Learning
 
 Help fill me in!
 
