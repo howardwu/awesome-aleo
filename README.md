@@ -15,11 +15,13 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
     - [Authentication](#authentication)
     - [Decentralized Finance (DeFi)](#decentralized-finance-defi)
     - [Identity](#identity)
+    - [Explorers](#explorers)
     - [Gaming](#gaming)
     - [Governance](#governance)
     - [Machine Learning](#machine-learning)
     - [Marketplaces](#marketplaces)
     - [Oracles](#oracles)
+    - [Wallets](#wallets)
 
 ## Core Libraries
 
