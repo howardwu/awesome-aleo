@@ -9,6 +9,7 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
 - [Core Libraries](#core-libraries)
 - [Development Tools](#development-tools)
     - [Syntax Highlighters](#syntax-highlighters)
+    - [Decompilers](#decompilers)
 - [Applications](#applications)
     - [Art](#art)
     - [Authentication](#authentication)
@@ -28,6 +29,10 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
 - [snarkVM](https://github.com/AleoHQ/snarkVM) - A Virtual Machine for Zero-Knowledge Executions
 
 ## Development Tools
+
+### Decompilers
+
+- [AleoVera](https://github.com/FuzzingLabs/aleovera) - The Aleo bytecode analyzer and disassembler
 
 ### Syntax Highlighters
 
