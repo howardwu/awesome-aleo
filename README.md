@@ -15,6 +15,7 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
 - [Presentations & Talks](#presentations--talks)
 - [Research Papers & Resources](#research-papers--resources)
 - [Core Libraries](#core-libraries)
+- [Hardware Acceleration](#hardware-acceleration)
 - [Development Tools](#development-tools)
     - [Decompilers](#decompilers)
     - [Syntax Highlighters](#syntax-highlighters)
@@ -66,6 +67,10 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
 - [Leo](https://github.com/AleoHQ/leo) - A Functional, Statically-Typed Language for Zero-Knowledge Applications
 - [snarkOS](https://github.com/AleoHQ/snarkOS) - A Decentralized Operating System for Zero-Knowledge Applications
 - [snarkVM](https://github.com/AleoHQ/snarkVM) - A Virtual Machine for Zero-Knowledge Executions
+
+## Hardware Acceleration
+
+- [ZPrize](https://zprize.io/) - Dedicated to Accelerating the Future of Zero-Knowledge Cryptography
 
 ## Development Tools
 
