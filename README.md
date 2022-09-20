@@ -13,7 +13,7 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
 - [Applications](#applications)
     - [Algorithms](#algorithms)
     - [Art](#art)
-[//]: # (    - [Authentication]&#40;#authentication&#41;)
+    - [Authentication](#authentication)
     - [Bridging](#bridging)
     - [Decentralized Finance (DeFi)](#decentralized-finance-defi)
     - [Explorers](#explorers)
@@ -22,8 +22,8 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
     - [Governance](#governance)
     - [Machine Learning](#machine-learning)
     - [Marketplaces](#marketplaces)
-[//]: # (    - [Oracles]&#40;#oracles&#41;)
-[//]: # (    - [Wallets]&#40;#wallets&#41;)
+    - [Oracles](#oracles)
+    - [Wallets](#wallets)
 
 ## Core Libraries
 
@@ -61,10 +61,9 @@ The following is a curated list of applications powered by Aleo.
 
 - [Setup Ceremony NFTs](https://opensea.io/collection/fluctuations-by-aleo)
 
-[//]: # (### Authentication)
+### Authentication
 
-[//]: # ()
-[//]: # (Help fill me in!)
+Help fill me in!
 
 ### Bridging
 
@@ -102,13 +101,10 @@ Help fill me in!
 
 - [leo/auction](https://github.com/AleoHQ/leo/tree/testnet3/examples/auction) - An auction record format built in Leo
 
-[//]: # (### Oracles)
+### Oracles
 
-[//]: # ()
-[//]: # (Help fill me in!)
+Help fill me in!
 
-[//]: # ()
-[//]: # (### Wallets)
+### Wallets
 
-[//]: # ()
-[//]: # (Help fill me in!)
+Help fill me in!
