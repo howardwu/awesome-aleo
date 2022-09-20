@@ -42,7 +42,9 @@ The following is a curated list of applications powered by Aleo.
 
 ### Algorithms
 
-- [bubblesort](h)
+- [leo/bubblesort](https://github.com/AleoHQ/leo/tree/testnet3/examples/bubblesort) - A bubble-sort algorithm implementation in Leo
+- [leo/groups](https://github.com/AleoHQ/leo/tree/testnet3/examples/groups) - An example of group operations in Leo
+- [leo/twoadicity](https://github.com/AleoHQ/leo/tree/testnet3/examples/twoadicity) - An implementation of computing the two-adicity in Leo
 - [is_prime](https://github.com/arosboro/is_prime) - An Aleo program to issue prime tokens 
 
 ### Art
@@ -65,6 +67,7 @@ Help fill me in!
 
 - [Battleship](https://github.com/demox-labs/zk-battleship) - ZK Battleship on Aleo
 - [Roulette](https://github.com/Entropy1729/aleo_roulette) - A Roulette web app built on Aleo
+- [leo/tictactoe](https://github.com/AleoHQ/leo/tree/testnet3/examples/tictactoe) - An implementation of TicTacToe in Leo
 
 ### Governance
 
@@ -77,7 +80,7 @@ Help fill me in!
 
 ### Marketplaces
 
-Help fill me in!
+- [leo/auction](https://github.com/AleoHQ/leo/tree/testnet3/examples/auction) - An auction record format built in Leo
 
 ### Oracles
 
