@@ -14,8 +14,8 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
 - [Tutorials](#tutorials)
 - [Presentations & Talks](#presentations--talks)
 - [Research Papers & Resources](#research-papers--resources)
-- [Core Libraries](#core-libraries)
 - [Hardware Acceleration](#hardware-acceleration)
+- [Core Libraries](#core-libraries)
 - [Development Tools](#development-tools)
     - [Decompilers](#decompilers)
     - [Syntax Highlighters](#syntax-highlighters)
@@ -61,16 +61,16 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
 - [Poseidon](https://eprint.iacr.org/2019/458.pdf) - Poseidon: A New Hash Function for Zero-Knowledge Proof Systems
 - [AVM Opcodes](https://github.com/AleoHQ/ARCs/tree/master/arc-0002) - Aleo Virtual Machine (AVM) Opcodes
 
+## Hardware Acceleration
+
+- [ZPrize](https://zprize.io/) - Dedicated to Accelerating the Future of Zero-Knowledge Cryptography
+
 ## Core Libraries
 
 - [Aleo](https://github.com/AleoHQ/aleo) - A Software Development Kit (SDK) for Zero-Knowledge Transactions
 - [Leo](https://github.com/AleoHQ/leo) - A Functional, Statically-Typed Language for Zero-Knowledge Applications
 - [snarkOS](https://github.com/AleoHQ/snarkOS) - A Decentralized Operating System for Zero-Knowledge Applications
 - [snarkVM](https://github.com/AleoHQ/snarkVM) - A Virtual Machine for Zero-Knowledge Executions
-
-## Hardware Acceleration
-
-- [ZPrize](https://zprize.io/) - Dedicated to Accelerating the Future of Zero-Knowledge Cryptography
 
 ## Development Tools
 
