@@ -31,8 +31,8 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
 
 ### Syntax Highlighters
 
-- [Sublime Text - Leo](https://packagecontrol.io/packages/LSP-leo)
-- [VSCode - Leo](https://marketplace.visualstudio.com/items?itemName=aleohq.leo-extension)
+- [Sublime Text - Leo](https://packagecontrol.io/packages/LSP-leo) - The official Leo plugin for Sublime Text
+- [VSCode - Leo](https://marketplace.visualstudio.com/items?itemName=aleohq.leo-extension) - The official Leo plugin for VSCode
 
 ## Applications
 
