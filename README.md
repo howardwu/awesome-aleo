@@ -105,7 +105,7 @@ Help fill me in!
 ### Identity
 
 - [Nemean](https://github.com/AleoHQ/nemean) - A CLI and SDK for custodians and engineers to interact with the Aleo network
-    - [Pine Street Labs](https://www.aleo.org/post/aleo-grants-pine-street-labs) - Aleo grantee fireside chat
+    - [Pine Street Labs](https://www.aleo.org/post/aleo-grants-pine-street-labs) - Fireside Chat with Aleo Grantee: Pine Street Labs
 
 ### Gaming
 
