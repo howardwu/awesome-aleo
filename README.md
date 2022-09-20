@@ -31,12 +31,19 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
 
 ### Syntax Highlighters
 
+- [IntelliJ - Leo](https://plugins.jetbrains.com/plugin/19890-aleo-developer) - The official Leo plugin for IntelliJ
 - [Sublime Text - Leo](https://packagecontrol.io/packages/LSP-leo) - The official Leo plugin for Sublime Text
 - [VSCode - Leo](https://marketplace.visualstudio.com/items?itemName=aleohq.leo-extension) - The official Leo plugin for VSCode
+- [vim - Aleo](https://github.com/julesdesmit/aleo.vim) - An unofficial Vim plugin for Aleo instructions
 
 ## Applications
 
 The following is a curated list of applications powered by Aleo.
+
+### Algorithms
+
+- [bubblesort](h)
+- [is_prime](https://github.com/arosboro/is_prime) - An Aleo program to issue prime tokens 
 
 ### Art
 
@@ -52,7 +59,7 @@ Help fill me in!
 
 ### Identity
 
-Help fill me in!
+- [Pine Street Labs](https://www.aleo.org/post/aleo-grants-pine-street-labs) - Nemean, an identity wallet SDK library
 
 ### Gaming
 
@@ -61,6 +68,7 @@ Help fill me in!
 
 ### Governance
 
+- [MACI](https://github.com/Entropy1729/aleo_minimum_anti_collusion_infrastructure) - Minimum Anti-Collusion Infrastructure on Aleo
 - [Aleo-Vote](https://github.com/zkprivacy/aleo-vote) - A ZK voting application on Aleo
 
 ### Machine Learning
@@ -74,3 +82,7 @@ Help fill me in!
 ### Oracles
 
 Help fill me in!
+
+### Wallets
+
+- 
