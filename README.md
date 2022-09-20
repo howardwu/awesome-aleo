@@ -28,7 +28,7 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
     - [Oracles](#oracles)
     - [Wallets](#wallets)
 
-## Announcements and News
+## Announcements & News
 
 - [Week In Aleo News - Telegram](https://t.me/aleoweeklynews) (Unofficial) This Week in Aleo
 - [This Week in Aleo](https://www.weekinaleonews.com/) The unofficial newsletter for Aleo developer updates
@@ -129,4 +129,5 @@ Help fill me in!
 
 ### Wallets
 
-Help fill me in!
+- [Metamask Snap - Aleo](https://piotr-roslaniec.github.io/aleo-snap/) - A MetaMask-compatible wallet extension for Aleo accounts
+
