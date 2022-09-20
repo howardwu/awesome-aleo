@@ -2,6 +2,7 @@
 <h3 align="center">A curated list of Aleo & Leo code and resources.</h3>
 
 <p align="center">
+    <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"></a>
     <a href="https://twitter.com/AleoHQ"><img src="https://img.shields.io/twitter/url/https/twitter.com/AleoHQ.svg?style=social&label=Follow%20%40AleoHQ"></a>
     <a href="https://aleo.org/discord"><img src="https://img.shields.io/discord/700454073459015690?logo=discord"/></a>
 </p>
