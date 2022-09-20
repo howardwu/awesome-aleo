@@ -137,6 +137,7 @@ The following is a curated list of applications powered by Aleo.
 
 - [MACI](https://github.com/Entropy1729/aleo_minimum_anti_collusion_infrastructure) - Minimum Anti-Collusion Infrastructure on Aleo
 - [Aleo-Vote](https://github.com/zkprivacy/aleo-vote) - A ZK voting application on Aleo
+- [leo/vote](https://github.com/AleoHQ/leo/tree/testnet3/examples/vote) - An example propose and vote mechanism build using Leo
 - [ZK Suggestion Box](https://github.com/demox-labs/zk-suggestion-box) - An anonymous suggestion box built on Aleo
 
 ### Machine Learning
