@@ -19,6 +19,7 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 - [Development Tools](#development-tools)
     - [Decompilers](#decompilers)
     - [Hardware Acceleration](#hardware-acceleration)
+    - [Playgrounds](#playgrounds)
     - [Syntax Highlighters](#syntax-highlighters)
 - [Applications](#applications)
     - [Algorithms](#algorithms)
@@ -81,6 +82,10 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 - [ZPrize](https://zprize.io/) - Dedicated to Accelerating the Future of Zero-Knowledge Cryptography
 - [Accelerating MSM on GPUs/FPGAs](https://github.com/z-prize/prize-gpu-fpga-msm) - Accelerating multi-scalar multiplications on GPUs/FPGAs
 - [Accelerating MSM on Mobile](https://github.com/celo-org/zprize-mobile-harness) - Accelerating multi-scalar multiplications on mobile
+
+### Playgrounds
+
+- [Leo Playground](https://play.leo-lang.org/) - The official playground for Leo programs
 
 ### Syntax Highlighters
 
