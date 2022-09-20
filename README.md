@@ -7,7 +7,7 @@
     <a href="https://aleo.org/discord"><img src="https://img.shields.io/discord/700454073459015690?logo=discord"/></a>
 </p>
 
-If you want to contribute, please read [this](./CONTRIBUTING.md).
+If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 
 ## Table of Contents
 
@@ -15,10 +15,10 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
 - [Tutorials](#tutorials)
 - [Presentations & Talks](#presentations--talks)
 - [Research Papers & Resources](#research-papers--resources)
-- [Hardware Acceleration](#hardware-acceleration)
 - [Core Libraries](#core-libraries)
 - [Development Tools](#development-tools)
     - [Decompilers](#decompilers)
+    - [Hardware Acceleration](#hardware-acceleration)
     - [Syntax Highlighters](#syntax-highlighters)
 - [Applications](#applications)
     - [Algorithms](#algorithms)
@@ -63,10 +63,6 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
 - [Poseidon](https://eprint.iacr.org/2019/458.pdf) - Poseidon: A New Hash Function for Zero-Knowledge Proof Systems
 - [AVM Opcodes](https://github.com/AleoHQ/ARCs/tree/master/arc-0002) - Aleo Virtual Machine (AVM) Opcodes
 
-## Hardware Acceleration
-
-- [ZPrize](https://zprize.io/) - Dedicated to Accelerating the Future of Zero-Knowledge Cryptography
-
 ## Core Libraries
 
 - [Aleo](https://github.com/AleoHQ/aleo) - A Software Development Kit (SDK) for Zero-Knowledge Transactions
@@ -79,6 +75,12 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
 ### Decompilers
 
 - [AleoVera](https://github.com/FuzzingLabs/aleovera) - The Aleo bytecode analyzer and disassembler
+
+### Hardware Acceleration
+
+- [ZPrize](https://zprize.io/) - Dedicated to Accelerating the Future of Zero-Knowledge Cryptography
+- [Accelerating MSM on GPUs/FPGAs](https://github.com/z-prize/prize-gpu-fpga-msm) - Accelerating multi-scalar multiplications on GPUs/FPGAs
+- [Accelerating MSM on Mobile](https://github.com/celo-org/zprize-mobile-harness) - Accelerating multi-scalar multiplications on mobile
 
 ### Syntax Highlighters
 
