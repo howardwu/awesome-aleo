@@ -6,7 +6,7 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
 
 ## Table of Contents
 
-- [Announcements and News](#announcements-and-news)
+- [Announcements & News](#announcements--news)
 - [Tutoritals & Talks](#tutorials--talks)
 - [Research Papers & Resources](#research-papers--resources)
 - [Core Libraries](#core-libraries)
