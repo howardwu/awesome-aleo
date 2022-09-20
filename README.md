@@ -102,7 +102,8 @@ Help fill me in!
 
 ### Identity
 
-- [Pine Street Labs](https://www.aleo.org/post/aleo-grants-pine-street-labs) - Nemean, an identity wallet SDK library
+- [Nemean](https://github.com/AleoHQ/nemean) - A CLI and SDK for custodians and engineers to interact with the Aleo network
+    - [Pine Street Labs](https://www.aleo.org/post/aleo-grants-pine-street-labs) - Aleo grantee fireside chat
 
 ### Gaming
 
