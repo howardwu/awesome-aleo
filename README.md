@@ -38,6 +38,7 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 ## Announcements & News
 
 - [Aleo Discord](https://aleo.org/discord) - The official Aleo Discord channel
+- [Aleo Twitter](https://twitter.com/AleoHQ) - The official Aleo Twitter account
 - [Week In Aleo News - Telegram](https://t.me/aleoweeklynews) - (Unofficial) This Week in Aleo
 - [This Week in Aleo](https://www.weekinaleonews.com/) - An unofficial newsletter for Aleo developer updates
 
