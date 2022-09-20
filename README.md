@@ -43,8 +43,10 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
 ## Research Papers & Resources
 
 - [Zexe](https://eprint.iacr.org/2018/962.pdf) - Zexe: Enabling Decentralized Private Computation
+- [Marlin](https://eprint.iacr.org/2019/1047.pdf) - Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS
 - [Leo](https://eprint.iacr.org/2021/651.pdf) - Leo: A Programming Language for Formally Verified,
   Zero-Knowledge Applications
+- [Poseidon](https://eprint.iacr.org/2019/458.pdf) - Poseidon: A New Hash Function for Zero-Knowledge Proof Systems
 - [AVM Opcodes](https://github.com/AleoHQ/ARCs/tree/master/arc-0002) - Aleo Virtual Machine (AVM) Opcodes
 
 ## Core Libraries
