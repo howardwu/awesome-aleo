@@ -92,7 +92,8 @@ The following is a curated list of applications powered by Aleo.
 
 ### Art
 
-- [Setup Ceremony NFTs](https://opensea.io/collection/fluctuations-by-aleo)
+- [aleo-nft](https://github.com/demox-labs/aleo-nft) - An NFT collection on the Aleo network
+- [Setup Ceremony NFTs](https://opensea.io/collection/fluctuations-by-aleo) - NFTs for the Aleo Setup Ceremony participants
 
 ### Authentication
 
@@ -119,6 +120,7 @@ Help fill me in!
 ### Gaming
 
 - [Battleship](https://github.com/demox-labs/zk-battleship) - ZK Battleship on Aleo
+- [CoinFlip](https://github.com/demox-labs/zk-coinflip) - A 2-party random coin flip on Aleo
 - [Roulette](https://github.com/Entropy1729/aleo_roulette) - A Roulette web app built on Aleo
 - [leo/tictactoe](https://github.com/AleoHQ/leo/tree/testnet3/examples/tictactoe) - An implementation of TicTacToe in Leo
 
@@ -126,6 +128,7 @@ Help fill me in!
 
 - [MACI](https://github.com/Entropy1729/aleo_minimum_anti_collusion_infrastructure) - Minimum Anti-Collusion Infrastructure on Aleo
 - [Aleo-Vote](https://github.com/zkprivacy/aleo-vote) - A ZK voting application on Aleo
+- [ZK Suggestion Box](https://github.com/demox-labs/zk-suggestion-box) - An anonymous suggestion box built on Aleo
 
 ### Machine Learning
 
