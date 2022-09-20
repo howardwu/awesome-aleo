@@ -3,7 +3,7 @@
 
 <p align="center">
     <a href="https://twitter.com/AleoHQ"><img src="https://img.shields.io/twitter/url/https/twitter.com/AleoHQ.svg?style=social&label=Follow%20%40AleoHQ"></a>
-    <a href="https://discord.gg/5v2ynrw2ds"><img src="https://img.shields.io/discord/700454073459015690?logo=discord"/></a>
+    <a href="https://aleo.org/discord"><img src="https://img.shields.io/discord/700454073459015690?logo=discord"/></a>
 </p>
 
 If you want to contribute, please read [this](./CONTRIBUTING.md).
@@ -35,6 +35,7 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
 
 ## Announcements & News
 
+- [Aleo Discord](https://aleo.org/discord) - The official Aleo Discord channel
 - [Week In Aleo News - Telegram](https://t.me/aleoweeklynews) - (Unofficial) This Week in Aleo
 - [This Week in Aleo](https://www.weekinaleonews.com/) - An unofficial newsletter for Aleo developer updates
 
