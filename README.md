@@ -7,8 +7,8 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
 ## Table of Contents
 
 - [Announcements and News](#announcements-and-news)
-- [Tutoritals & Talks](#tutorials-and-talks)
-- [Research Papers & Resources](#research-papers-and-resources)
+- [Tutoritals & Talks](#tutorials--talks)
+- [Research Papers & Resources](#research-papers--resources)
 - [Core Libraries](#core-libraries)
 - [Development Tools](#development-tools)
     - [Decompilers](#decompilers)
