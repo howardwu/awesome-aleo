@@ -21,11 +21,10 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
 - [Applications](#applications)
     - [Algorithms](#algorithms)
     - [Art](#art)
-    - [Authentication](#authentication)
     - [Bridging](#bridging)
     - [Decentralized Finance (DeFi)](#decentralized-finance-defi)
     - [Explorers](#explorers)
-    - [Identity](#identity)
+    - [Identity & Authentication](#identity--authentication)
     - [Gaming](#gaming)
     - [Governance](#governance)
     - [Machine Learning](#machine-learning)
@@ -99,10 +98,6 @@ The following is a curated list of applications powered by Aleo.
 - [aleo-nft](https://github.com/demox-labs/aleo-nft) - An NFT collection on the Aleo network
 - [Setup Ceremony NFTs](https://opensea.io/collection/fluctuations-by-aleo) - NFTs for the Aleo Setup Ceremony participants
 
-### Authentication
-
-Help fill me in!
-
 ### Bridging
 
 - [Eclipse](https://github.com/eqlabs/eclipse) - Bridging ecosystems by storing zero-knowledge proofs of Solana votes on Aleo
@@ -120,6 +115,7 @@ Help fill me in!
 
 - [Nemean](https://github.com/AleoHQ/nemean) - A CLI and SDK for custodians and engineers to interact with the Aleo network
     - [Pine Street Labs](https://www.aleo.org/post/aleo-grants-pine-street-labs) - Fireside Chat with Aleo Grantee: Pine Street Labs
+- [SpruceID DID Kit](https://www.spruceid.dev/didkit/didkit-examples/core-functions-with-aleo) - Issuance and verification of verifiable credentials using Aleo accounts
 
 ### Gaming
 
