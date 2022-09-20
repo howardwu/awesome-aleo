@@ -35,10 +35,14 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
 
 ## Tutorials & Talks
 
+- [Zero Knowledge Podcast: Introduction to zkSNARKs with Howard Wu](https://zeroknowledge.fm/38-2/) - Episode 38: Introduction to zkSNARKs with Howard Wu
 - [Demystifying Zero-Knowledge Programming](https://youtu.be/5hO9NbtFc0g?t=2069) - Introduction to the Aleo account model and the Leo programming model
+- [Zero Knowledge Podcast - Aleo with Howard Wu](https://zeroknowledge.fm/144-2/) - Episode 144: Aleo with Howard Wu
+- [CoinGecko: The Importance of Zero-knowledge Proof with Alex Pruden](https://player.fm/series/coingecko-podcast-bitcoin-cryptocurrency-insights/the-importance-of-zero-knowledge-proof-with-alex-pruden-coo-of-aleo-ep64) - The Importance of Zero-knowledge Proof with Alex Pruden
 - [An introduction to Aleo](https://www.entropy1729.com/aleo-introduction/) - An introduction to the core concepts of programming in Aleo
 - [Aleo Development Starter Pack](https://www.entropy1729.com/aleo-development-starter-pack/) - Overview of how to write Aleo instructions
 - [Fully-Private Applications: The Zexe Protocol](https://www.entropy1729.com/zexe/) - An introduction to a decentralized ledger for fully-private applications
+- [Getting Started with Aleo Instructions](https://www.entropy1729.com/getting-started-aleo-instructions/) - A walkthrough of a simple example in Aleo instructions
 
 ## Research Papers & Resources
 
