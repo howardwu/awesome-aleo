@@ -1,12 +1,10 @@
 <h1 align="center">awesome-aleo</h1>
+<h3 align="center">A curated list of Aleo & Leo code and resources.</h3>
 
 <p align="center">
     <a href="https://twitter.com/AleoHQ"><img src="https://img.shields.io/twitter/url/https/twitter.com/AleoHQ.svg?style=social&label=Follow%20%40AleoHQ"></a>
     <a href="https://discord.gg/5v2ynrw2ds"><img src="https://img.shields.io/discord/700454073459015690?logo=discord"/></a>
 </p>
-
-
-A curated list of Aleo & Leo code and resources.
 
 If you want to contribute, please read [this](./CONTRIBUTING.md).
 
