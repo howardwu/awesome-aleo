@@ -11,6 +11,7 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
     - [Decompilers](#decompilers)
     - [Syntax Highlighters](#syntax-highlighters)
 - [Applications](#applications)
+    - [Algorithms](#algorithms)
     - [Art](#art)
     - [Authentication](#authentication)
     - [Decentralized Finance (DeFi)](#decentralized-finance-defi)
