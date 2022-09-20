@@ -14,6 +14,7 @@ If you want to contribute, please read [this](./CONTRIBUTING.md).
     - [Algorithms](#algorithms)
     - [Art](#art)
     - [Authentication](#authentication)
+    - [Bridging](#bridging)
     - [Decentralized Finance (DeFi)](#decentralized-finance-defi)
     - [Explorers](#explorers)
     - [Identity](#identity)
@@ -63,6 +64,10 @@ The following is a curated list of applications powered by Aleo.
 ### Authentication
 
 Help fill me in!
+
+### Bridging
+
+- [Eclipse](https://github.com/eqlabs/eclipse) - Bridging ecosystems by storing zero-knowledge proofs of Solana votes on Aleo
 
 ### Decentralized Finance (DeFi)
 
