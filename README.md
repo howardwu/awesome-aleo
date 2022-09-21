@@ -52,8 +52,10 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 ## Presentations & Talks
 
 - [Introduction to zkSNARKs with Howard Wu](https://zeroknowledge.fm/38-2/) - Zero Knowledge Podcast: Episode 38
-- [Demystifying Zero-Knowledge Programming](https://youtu.be/5hO9NbtFc0g?t=2069) - Introduction to the Aleo record model
+- [Demystifying Zero-Knowledge Programming](https://youtu.be/5hO9NbtFc0g?t=2069) - Introduction to the Aleo Record Model
+- [zkWhiteBoard Session with Pratyush Mishra](https://zkhack.dev/whiteboard/module-eight/) - ZKHack: zkWhiteBoard Session on Zexe and Aleo
 - [Aleo with Howard Wu](https://zeroknowledge.fm/144-2/) - Zero Knowledge Podcast: Episode 144
+- [Efficient Private Delegation of zkSNARK Provers](https://www.youtube.com/watch?v=iT_s92f3wds) - ZKSummit 7: Pratyush Mishra
 - [The Importance of Zero-knowledge Proof with Alex Pruden](https://player.fm/series/coingecko-podcast-bitcoin-cryptocurrency-insights/the-importance-of-zero-knowledge-proof-with-alex-pruden-coo-of-aleo-ep64) - CoinGecko Podcast
 
 ## Research Papers & Resources
