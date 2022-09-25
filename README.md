@@ -133,6 +133,7 @@ The following is a curated list of applications powered by Aleo.
 - [Nemean](https://github.com/AleoHQ/nemean) - A CLI and SDK for custodians and engineers to interact with the Aleo network
     - [Pine Street Labs](https://www.aleo.org/post/aleo-grants-pine-street-labs) - Fireside Chat with Aleo Grantee: Pine Street Labs
 - [SpruceID DID Kit](https://www.spruceid.dev/didkit/didkit-examples/core-functions-with-aleo) - Issuance and verification of verifiable credentials using Aleo accounts
+- [zkDrop](https://github.com/4sm-ops/zkDrop/) - Digital ID and secure file sharing concept based on Aleo
 
 ### Gaming
 
