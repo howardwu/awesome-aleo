@@ -139,7 +139,7 @@ The following is a curated list of applications powered by Aleo.
 
 - [Battleship](https://github.com/demox-labs/zk-battleship) - ZK Battleship on Aleo
 - [CoinFlip](https://github.com/demox-labs/zk-coinflip) - A 2-party random coin flip on Aleo
-- [Roulette](https://github.com/Entropy1729/aleo_roulette) - A Roulette web app built on Aleo [Live Demo](https://roulette.cluster.entropy1729.com/)
+- [Roulette](https://github.com/Entropy1729/aleo_roulette) - A Roulette web app built on Aleo [[Live Demo]](https://roulette.cluster.entropy1729.com/)
 - [leo/tictactoe](https://github.com/AleoHQ/leo/tree/testnet3/examples/tictactoe) - An implementation of TicTacToe in Leo
 
 ### Governance
