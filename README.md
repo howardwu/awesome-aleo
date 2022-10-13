@@ -167,3 +167,5 @@ Help fill me in!
 - [Metamask Snap - Aleo](https://piotr-roslaniec.github.io/aleo-snap/) - A MetaMask-compatible wallet extension for Aleo accounts
 - [(Unofficial) Account SDK](https://github.com/qqmee/aleo-sdk) - An unofficial account SDK for Aleo
 - [Aleo Wallet](https://chrome.google.com/webstore/detail/aleo-wallet/gnebojbimjelkmlfifljmilecfnonhnc?hl=en) - A Chrome extension for an Aleo wallet
+- [Leo Wallet](https://leo.app/) - A simple and private wallet for Aleo. Early access waitlist now open.
+- [Leo Wallet Adapter SDK](https://github.com/demox-labs/aleo-wallet-adapter) - A SDK for integrating with the Leo wallet
