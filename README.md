@@ -143,7 +143,7 @@ The following is a curated list of applications powered by Aleo.
 - [Roulette](https://github.com/Entropy1729/aleo_roulette) - A Roulette web app built on Aleo [[Live Demo]](https://roulette.cluster.entropy1729.com/)
 - [leo/tictactoe](https://github.com/AleoHQ/leo/tree/testnet3/examples/tictactoe) - An implementation of TicTacToe in Leo
 - [Liar's Dice](https://github.com/Kryha/zk-liars-dice) - An online multiplayer dice game showcasing the potential of Aleo's ZKP platform.
-- [zkSudoku](https://github.com/dorebell/zksudoku) - ZK commitments for atomic Sudoku swaps with Leo
+- [ZK Commitments for atomic Sudoku swaps](https://github.com/dorebell/zksudoku) - Greg Maxwell’s Zero Knowledge Contingent Payments.
 
 ### Governance
 
@@ -151,7 +151,6 @@ The following is a curated list of applications powered by Aleo.
 - [Aleo-Vote](https://github.com/zkprivacy/aleo-vote) - A ZK voting application on Aleo
 - [leo/vote](https://github.com/AleoHQ/leo/tree/testnet3/examples/vote) - An example propose and vote mechanism build using Leo
 - [ZK Suggestion Box](https://github.com/demox-labs/zk-suggestion-box) - An anonymous suggestion box built on Aleo
-- [ZK Commitments for atomic Sudoku swaps](https://github.com/dorebell/zksudoku) - Greg Maxwell’s Zero Knowledge Contingent Payments.
 
 ### Machine Learning
 
