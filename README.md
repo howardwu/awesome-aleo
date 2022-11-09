@@ -143,6 +143,7 @@ The following is a curated list of applications powered by Aleo.
 - [Roulette](https://github.com/Entropy1729/aleo_roulette) - A Roulette web app built on Aleo [[Live Demo]](https://roulette.cluster.entropy1729.com/)
 - [leo/tictactoe](https://github.com/AleoHQ/leo/tree/testnet3/examples/tictactoe) - An implementation of TicTacToe in Leo
 - [Liar's Dice](https://github.com/Kryha/zk-liars-dice) - An online multiplayer dice game showcasing the potential of Aleo's ZKP platform.
+- [zkSudoku](https://github.com/dorebell/zksudoku) - ZK commitments for atomic Sudoku swaps with Leo
 
 ### Governance
 
