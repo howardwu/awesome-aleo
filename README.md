@@ -149,6 +149,7 @@ The following is a curated list of applications powered by Aleo.
 - [Aleo-Vote](https://github.com/zkprivacy/aleo-vote) - A ZK voting application on Aleo
 - [leo/vote](https://github.com/AleoHQ/leo/tree/testnet3/examples/vote) - An example propose and vote mechanism build using Leo
 - [ZK Suggestion Box](https://github.com/demox-labs/zk-suggestion-box) - An anonymous suggestion box built on Aleo
+- [ZK Commitments for atomic Sudoku swaps](https://github.com/dorebell/zksudoku) - Greg Maxwell’s Zero Knowledge Contingent Payments.
 
 ### Machine Learning
 
