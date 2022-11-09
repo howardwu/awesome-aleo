@@ -66,6 +66,7 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
   Zero-Knowledge Applications
 - [Poseidon](https://eprint.iacr.org/2019/458.pdf) - Poseidon: A New Hash Function for Zero-Knowledge Proof Systems
 - [AVM Opcodes](https://github.com/AleoHQ/ARCs/tree/master/arc-0002) - Aleo Virtual Machine (AVM) Opcodes
+- [PoNW](https://eprint.iacr.org/2020/190.pdf) - Proof of Necessary Work: Succinct State Verification with Fairness Guarantees
 
 ## Core Libraries
 
