@@ -132,8 +132,11 @@ The following is a curated list of applications powered by Aleo.
 ### Identity & Authentication
 
 - [Nemean](https://github.com/AleoHQ/nemean) - A CLI and SDK for custodians and engineers to interact with the Aleo network
-    - [Pine Street Labs](https://www.aleo.org/post/aleo-grants-pine-street-labs) - Fireside Chat with Aleo Grantee: Pine Street Labs
-- [SpruceID DID Kit](https://www.spruceid.dev/didkit/didkit-examples/core-functions-with-aleo) - Issuance and verification of verifiable credentials using Aleo accounts
+    - [Introducing Nemean](https://blog.pinestreetlabs.com/pine-street-labs-aleo-introducing-nemean/) - Blog post written by Pine Street Labs explaining Nemean
+    - [Aleo Grant Recipient: Pine Street Labs](https://www.aleo.org/post/aleo-grants-pine-street-labs) - Transcript interview with Pine Street Labs
+    - [Pine Street Labs Fireside Chat](https://www.youtube.com/watch?v=B4lqbuyNozU&ab_channel=Aleo) - Fireside chat with the Pine Street Labs team
+- [Spruce DID Kit](https://www.spruceid.dev/didkit/didkit-examples/core-functions-with-aleo) - Issuance and verification of verifiable credentials using Aleo accounts
+    - [Spruce Fireside Chat](https://www.youtube.com/watch?v=9L9xSxgvuX8&ab_channel=Aleo) - Fireside chat with the Spruce team
 - [zkDrop](https://github.com/4sm-ops/zkDrop/) - Digital ID and secure file sharing concept based on Aleo
 
 ### Gaming
@@ -142,8 +145,8 @@ The following is a curated list of applications powered by Aleo.
 - [CoinFlip](https://github.com/demox-labs/zk-coinflip) - A 2-party random coin flip on Aleo
 - [Roulette](https://github.com/Entropy1729/aleo_roulette) - A Roulette web app built on Aleo [[Live Demo]](https://roulette.cluster.entropy1729.com/)
 - [leo/tictactoe](https://github.com/AleoHQ/leo/tree/testnet3/examples/tictactoe) - An implementation of TicTacToe in Leo
-- [Liar's Dice](https://github.com/Kryha/zk-liars-dice) - An online multiplayer dice game showcasing the potential of Aleo's ZKP platform.
-- [ZK Commitments for atomic Sudoku swaps](https://github.com/dorebell/zksudoku) - Greg Maxwell’s Zero Knowledge Contingent Payments.
+- [Boloney](https://github.com/Kryha/boloney) - An online multiplayer dice game showcasing the potential of Aleo's ZKP platform
+- [ZK Commitments for atomic Sudoku swaps](https://github.com/dorebell/zksudoku) - Greg Maxwell’s Zero Knowledge Contingent Payments
 
 ### Governance
 
