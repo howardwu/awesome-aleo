@@ -158,7 +158,7 @@ The following is a curated list of applications powered by Aleo.
 
 ### Machine Learning
 
-Help fill me in!
+- [neural network inference and leo program generator](https://github.com/zeroknowledgetutorials/leo-neural-networks) - An implementation of a neural network inference in Leo, and a Python program to genereate Leo code for neural network inference
 
 ### Marketplaces
 
