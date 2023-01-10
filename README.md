@@ -80,6 +80,7 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 ### Decompilers
 
 - [AleoVera](https://github.com/FuzzingLabs/aleovera) - The Aleo bytecode analyzer and disassembler
+- [AleoPathy](https://github.com/HH-0rg/aleopath) - Online Disassembler and Decompiler
 
 ### Hardware Acceleration
 
