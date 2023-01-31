@@ -148,6 +148,7 @@ The following is a curated list of applications powered by Aleo.
 - [Boloney](https://github.com/Kryha/boloney) - An online multiplayer dice game showcasing the potential of Aleo's ZKP platform
 - [ZK Commitments for atomic Sudoku swaps](https://github.com/dorebell/zksudoku) - Greg Maxwell’s Zero Knowledge Contingent Payments
 - [Aleo Monopoly](https://github.com/Elexy101/Aleo-Monopoly) - Simple game of Monopoly written in Leo
+- [Aleo Rock Paper Scizzors](https://github.com/pineappleworkshop/aleo-roshambo) - Rock paper scizzors on Aleo
 
 ### Governance
 
