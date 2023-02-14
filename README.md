@@ -80,6 +80,7 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 ### Decompilers
 
 - [AleoVera](https://github.com/FuzzingLabs/aleovera) - The Aleo bytecode analyzer and disassembler
+- [AleoPathy](https://github.com/HH-0rg/aleopath) - Online Disassembler and Decompiler
 
 ### Hardware Acceleration
 
@@ -149,6 +150,7 @@ The following is a curated list of applications powered by Aleo.
 - [ZK Commitments for atomic Sudoku swaps](https://github.com/dorebell/zksudoku) - Greg Maxwell’s Zero Knowledge Contingent Payments
 - [Aleo Monopoly](https://github.com/Elexy101/Aleo-Monopoly) - Simple game of Monopoly written in Leo
 - [Aleo Wordle](https://github.com/pineappleworkshop/aleo-zordle) - Wordle on Aleo
+- [Aleo Rock Paper Scizzors](https://github.com/pineappleworkshop/aleo-roshambo) - Rock paper scizzors on Aleo
 
 ### Governance
 
@@ -160,6 +162,7 @@ The following is a curated list of applications powered by Aleo.
 ### Machine Learning
 
 - [neural network inference and leo program generator](https://github.com/zeroknowledgetutorials/leo-neural-networks) - An implementation of a neural network inference in Leo, and a Python program to genereate Leo code for neural network inference
+- [numerical optimization example](https://github.com/vicsn/leo-numerical-optimization) - An example implementation of proving model training succeeded with respect to a certain dataset, without having to prove the entire trace of the training. 
 
 ### Marketplaces
 
