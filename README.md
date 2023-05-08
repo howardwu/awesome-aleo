@@ -102,7 +102,7 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 - [vim - Aleo](https://github.com/julesdesmit/aleo.vim) - An unofficial Vim plugin for Aleo instructions
 
 ### Python Developer Tooling
-- [Leo Program Runner](https://github.com/snowtigersoft/run_leo) - A way to running leo form python
+- [Leo Program Runner](https://github.com/snowtigersoft/run_leo) - Python hooks to load and execute Leo programs
 
 ## Applications
 
