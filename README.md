@@ -21,6 +21,7 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
     - [Hardware Acceleration](#hardware-acceleration)
     - [Playgrounds](#playgrounds)
     - [Syntax Highlighters](#syntax-highlighters)
+    - [Python Developer Tooling](#python-developer-tooling)
 - [Applications](#applications)
     - [Algorithms](#algorithms)
     - [Art](#art)
@@ -99,6 +100,9 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 - [Sublime Text - Aleo](https://github.com/AleoHQ/aleo/tree/testnet3/sublime) - An unofficial Aleo plugin for Sublime Text
 - [VSCode - Leo](https://marketplace.visualstudio.com/items?itemName=aleohq.leo-extension) - The official Leo plugin for VSCode
 - [vim - Aleo](https://github.com/julesdesmit/aleo.vim) - An unofficial Vim plugin for Aleo instructions
+
+### Python Developer Tooling
+- [Leo Program Runner](https://github.com/snowtigersoft/run_leo) - Python hooks to load and execute Leo programs
 
 ## Applications
 
