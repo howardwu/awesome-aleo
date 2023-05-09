@@ -1,5 +1,5 @@
-<h1 align="center">awesome-aleo</h1>
-<h3 align="center">🏎️ A curated list of Aleo & Leo code and resources 🏎️</h3>
+<h1 align="center">awesome-aleo-ua</h1>
+<h3 align="center">🏎️ Список коду та ресурсів Aleo & Leo 🏎️</h3>
 
 <p align="center">
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"></a>
@@ -7,15 +7,15 @@
     <a href="https://aleo.org/discord"><img src="https://img.shields.io/discord/700454073459015690?logo=discord"/></a>
 </p>
 
-If you'd like to contribute, please read [this](./CONTRIBUTING.md).
+Якщо ви хочете зробити свій внесок, будь ласка, прочитайте [це](./CONTRIBUTING.md).
 
 ## Table of Contents
 
-- [Announcements & News](#announcements--news)
-- [Tutorials](#tutorials)
-- [Presentations & Talks](#presentations--talks)
-- [Research Papers & Resources](#research-papers--resources)
-- [Core Libraries](#core-libraries)
+- [Анонси & Новини](#анонси--новини)
+- [Навчальні матеріали](#навчальні-матеріали)
+- [Презентації & обговорення ](#презентації--обговорення)
+- [Дослідницькі роботи та ресурси](#дослідницькі-роботи-та-ресурси)
+- [Основні бібліотеки](#core-libraries)
 - [Development Tools](#development-tools)
     - [Decompilers](#decompilers)
     - [Hardware Acceleration](#hardware-acceleration)
@@ -34,153 +34,151 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
     - [Machine Learning](#machine-learning)
     - [Marketplaces](#marketplaces)
     - [Oracles](#oracles)
-    - [Wallets](#wallets)
+    - [Гаманці](#гаманці)
 
-## Announcements & News
+## Анонси & Новини
 
-- [Aleo Discord](https://aleo.org/discord) - The official Aleo Discord channel
-- [Aleo Twitter](https://twitter.com/AleoHQ) - The official Aleo Twitter account
-- [Week In Aleo News - Telegram](https://t.me/aleoweeklynews) - (Unofficial) This Week in Aleo
-- [This Week in Aleo](https://www.weekinaleonews.com/) - An unofficial newsletter for Aleo developer updates
+- [Aleo Discord](https://aleo.org/discord) -  Офіційний Discord Aleo
+- [Aleo Twitter](https://twitter.com/AleoHQ) - Офіційний Twitter Aleo
+- [Новини тижня в Aleo - Telegram](https://t.me/aleoweeklynews) - (Неофіційне) Цього тижня в Алео
+- [Цього тижня в Алео](https://www.weekinaleonews.com/) - Неофіційна розсилка оновлень для розробників Aleo
 
-## Tutorials
+## Навчальні матеріали
 
-- [An introduction to Aleo](https://www.entropy1729.com/aleo-introduction/) - An introduction to the core concepts of programming in Aleo
-- [Aleo Development Starter Pack](https://www.entropy1729.com/aleo-development-starter-pack/) - Overview of how to write Aleo instructions
-- [Fully-Private Applications: The Zexe Protocol](https://www.entropy1729.com/zexe/) - Intro to a decentralized ledger for fully-private applications
-- [Getting Started with Aleo Instructions](https://www.entropy1729.com/getting-started-aleo-instructions/) - A walkthrough of a simple example in Aleo instructions
+- [Вступ до Aleo](https://www.entropy1729.com/aleo-introduction/) - Вступ до основних понять програмування в Aleo
+- [Starter Pack для Aleo розробників](https://www.entropy1729.com/aleo-development-starter-pack/) - Огляд того, як писати інструкції Aleo
+- [Повністю приватні програми: Протокол Zexe](https://www.entropy1729.com/zexe/) - Вступ до децентралізованого реєстру для повністю приватних додатків
+- [Початок роботи з інструкціями Aleo](https://www.entropy1729.com/getting-started-aleo-instructions/) - Розбір простого прикладу з інструкції Aleo
 
-## Presentations & Talks
+## Презентації & обговорення
 
-- [Introduction to zkSNARKs with Howard Wu](https://zeroknowledge.fm/38-2/) - Zero Knowledge Podcast: Episode 38
-- [Demystifying Zero-Knowledge Programming](https://www.youtube.com/watch?v=-FrrylHITvg) - Introduction to the Record Model
-- [zkWhiteBoard Session with Pratyush Mishra](https://zkhack.dev/whiteboard/module-eight/) - ZKHack: zkWhiteBoard Session on Zexe and Aleo
-- [Aleo with Howard Wu](https://zeroknowledge.fm/144-2/) - Zero Knowledge Podcast: Episode 144
-- [Efficient Private Delegation of zkSNARK Provers](https://www.youtube.com/watch?v=iT_s92f3wds) - ZKSummit 7: Pratyush Mishra
-- [The Importance of Zero-knowledge Proof with Alex Pruden](https://player.fm/series/coingecko-podcast-bitcoin-cryptocurrency-insights/the-importance-of-zero-knowledge-proof-with-alex-pruden-coo-of-aleo-ep64) - CoinGecko Podcast
+- [Вступ до zkSNARKs з Говардом Ву](https://zeroknowledge.fm/38-2/) - Подкаст "Zero Knowledge": Епізод 38
+- [Демістифікація програмування з нульовими знаннями](https://www.youtube.com/watch?v=-FrrylHITvg) - Вступ до моделі запису
+- [zkWhiteBoard Сесія з Пратіушем Мішрою](https://zkhack.dev/whiteboard/module-eight/) - ZKHack: zkWhiteBoard сесія про Zexe та Aleo
+- [Aleo з Говардом Ву](https://zeroknowledge.fm/144-2/) - Подкаст "Zero Knowledge": Епізод 144
+- [Ефективне приватне делегування надавачів послуг zkSNARK](https://www.youtube.com/watch?v=iT_s92f3wds) - ZKSummit 7: Пратіуш Мішра
+- [Важливість доведення ZKP з Алексом Пруденом](https://player.fm/series/coingecko-podcast-bitcoin-cryptocurrency-insights/the-importance-of-zero-knowledge-proof-with-alex-pruden-coo-of-aleo-ep64) - Подкаст CoinGecko
 
-## Research Papers & Resources
+## Дослідницькі роботи та ресурси
 
-- [Zexe](https://eprint.iacr.org/2018/962.pdf) - Zexe: Enabling Decentralized Private Computation
-- [Marlin](https://eprint.iacr.org/2019/1047.pdf) - Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS
-- [Leo](https://eprint.iacr.org/2021/651.pdf) - Leo: A Programming Language for Formally Verified,
-  Zero-Knowledge Applications
-- [Poseidon](https://eprint.iacr.org/2019/458.pdf) - Poseidon: A New Hash Function for Zero-Knowledge Proof Systems
-- [AVM Opcodes](https://github.com/AleoHQ/ARCs/tree/master/arc-0002) - Aleo Virtual Machine (AVM) Opcodes
-- [PoNW](https://eprint.iacr.org/2020/190.pdf) - Proof of Necessary Work: Succinct State Verification with Fairness Guarantees
+- [Zexe](https://eprint.iacr.org/2018/962.pdf) - Zexe: Увімкнення децентралізованих приватних обчислень
+- [Marlin](https://eprint.iacr.org/2019/1047.pdf) - Marlin: Попередня обробка zkSNARKs з універсальним та оновлюваним SRS
+- [Leo](https://eprint.iacr.org/2021/651.pdf)  - Leo: Мова програмування для формально верифікованих, застосувань з нульовою інформацією
+- [Poseidon](https://eprint.iacr.org/2019/458.pdf) - Poseidon: Нова хеш-функція для систем доказу з нульовою інформацією
+- [AVM Opcodes](https://github.com/AleoHQ/ARCs/tree/master/arc-0002) - Опкоди віртуальної машини Aleo (AVM)
+- [PoNW](https://eprint.iacr.org/2020/190.pdf) - Доказ необхідної роботи: Стисла перевірка з гарантіями справедливості
 
-## Core Libraries
+## Основні бібліотеки
 
-- [Aleo](https://github.com/AleoHQ/aleo) - A Software Development Kit (SDK) for Zero-Knowledge Transactions
-- [Leo](https://github.com/AleoHQ/leo) - A Functional, Statically-Typed Language for Zero-Knowledge Applications
-- [snarkOS](https://github.com/AleoHQ/snarkOS) - A Decentralized Operating System for Zero-Knowledge Applications
-- [snarkVM](https://github.com/AleoHQ/snarkVM) - A Virtual Machine for Zero-Knowledge Executions
+- [Aleo](https://github.com/AleoHQ/aleo) - Набір інструментів для розробки програмного забезпечення (SDK) для транзакцій з нульовою інформацією
+- [Leo](https://github.com/AleoHQ/leo) - Функціональна, статично типізована мова для застосувань з нульовою інформацією
+- [snarkOS](https://github.com/AleoHQ/snarkOS) - Децентралізована операційна система для застосувань з нульовою інформацією
+- [snarkVM](https://github.com/AleoHQ/snarkVM) - Віртуальна машина для виконання з нульовою інформацією
 
-## Development Tools
+## Інструменти для розробки
 
-### Decompilers
+### Декомпілятори
 
-- [AleoVera](https://github.com/FuzzingLabs/aleovera) - The Aleo bytecode analyzer and disassembler
-- [AleoPathy](https://github.com/HH-0rg/aleopath) - Online Disassembler and Decompiler
+- [AleoVera](https://github.com/FuzzingLabs/aleovera) - Аналізатор та дизасемблер байт-коду Aleo
+- [AleoPathy](https://github.com/HH-0rg/aleopath) - Онлайн дизасемблер та декомпілятор
 
-### Hardware Acceleration
+### Апаратне прискорення
 
-- [ZPrize](https://zprize.io/) - Dedicated to Accelerating the Future of Zero-Knowledge Cryptography
-- [Accelerating MSM on GPUs/FPGAs](https://github.com/z-prize/prize-gpu-fpga-msm) - Accelerating multi-scalar multiplications on GPUs/FPGAs
-- [Accelerating MSM on Mobile](https://github.com/celo-org/zprize-mobile-harness) - Accelerating multi-scalar multiplications on mobile
+- [ZPrize](https://zprize.io/) - Призваний прискорити майбутнє криптографії з нульовою інформацією
+- [Accelerating MSM on GPUs/FPGAs](https://github.com/z-prize/prize-gpu-fpga-msm) -  Прискорення багаточислових множень на GPU/FPGA
+- [Accelerating MSM on Mobile](https://github.com/celo-org/zprize-mobile-harness) - Прискорення багаточислових множень на мобільних пристроях
+### Пісочниця
 
-### Playgrounds
+- [Leo Playground](https://play.leo-lang.org/) - Офіційна пісочниця для програм Leo
 
-- [Leo Playground](https://play.leo-lang.org/) - The official playground for Leo programs
+### Підсвітка синтаксису
 
-### Syntax Highlighters
+- [IntelliJ - Leo](https://plugins.jetbrains.com/plugin/19890-aleo-developer) - Офіційний плагін Leo для IntelliJ
+- [Sublime Text - Leo](https://packagecontrol.io/packages/LSP-leo) - Офіційний плагін Leo для Sublime Text
+- [Sublime Text - Aleo](https://github.com/AleoHQ/aleo/tree/testnet3/sublime) - Неофіційний плагін Aleo для Sublime Text
+- [VSCode - Leo](https://marketplace.visualstudio.com/items?itemName=aleohq.leo-extension) - Офіційний плагін Leo для VSCode
+- [vim - Aleo](https://github.com/julesdesmit/aleo.vim) - Неофіційний плагін Vim для Aleo
 
-- [IntelliJ - Leo](https://plugins.jetbrains.com/plugin/19890-aleo-developer) - The official Leo plugin for IntelliJ
-- [Sublime Text - Leo](https://packagecontrol.io/packages/LSP-leo) - The official Leo plugin for Sublime Text
-- [Sublime Text - Aleo](https://github.com/AleoHQ/aleo/tree/testnet3/sublime) - An unofficial Aleo plugin for Sublime Text
-- [VSCode - Leo](https://marketplace.visualstudio.com/items?itemName=aleohq.leo-extension) - The official Leo plugin for VSCode
-- [vim - Aleo](https://github.com/julesdesmit/aleo.vim) - An unofficial Vim plugin for Aleo instructions
+### Інструменти для розробників Python
+- [Leo Program Runner](https://github.com/snowtigersoft/run_leo) - Хуки Python для завантаження та виконання програм Leo
 
-### Python Developer Tooling
-- [Leo Program Runner](https://github.com/snowtigersoft/run_leo) - Python hooks to load and execute Leo programs
+## Додатки
 
-## Applications
+Нижче наведено список програм, що працюють на основі Aleo.
 
-The following is a curated list of applications powered by Aleo.
+### Алгоритми
 
-### Algorithms
-
-- [fixed-point numbers](https://github.com/zeroknowledgetutorials/leo-fixed-point-numbers) - An implementation of fixed-point numbers and calculations in Leo
-- [is_prime](https://github.com/arosboro/is_prime) - An Aleo program to issue prime tokens 
-- [leo/bubblesort](https://github.com/AleoHQ/leo/tree/testnet3/examples/bubblesort) - A bubble-sort algorithm implementation in Leo
-- [leo/groups](https://github.com/AleoHQ/leo/tree/testnet3/examples/groups) - An example of group operations in Leo
+- [fixed-point numbers](https://github.com/zeroknowledgetutorials/leo-fixed-point-numbers) - Реалізація чисел з фіксованою комою та обчислень у Leo
+- [is_prime](https://github.com/arosboro/is_prime) -  Програма Aleo для видачі простих токенів
+- [leo/bubblesort](https://github.com/AleoHQ/leo/tree/testnet3/examples/bubblesort) - Реалізація алгоритму сортування-бульбашкою в Leo
+- [leo/groups](https://github.com/AleoHQ/leo/tree/testnet3/examples/groups) - Приклад операцій з групами в Leo
 - [leo/twoadicity](https://github.com/AleoHQ/leo/tree/testnet3/examples/twoadicity) - An implementation of computing the two-adicity in Leo
 
-### Art
+### Арти
 
-- [aleo-nft](https://github.com/demox-labs/aleo-nft) - An NFT collection on the Aleo network
-- [Setup Ceremony NFTs](https://opensea.io/collection/fluctuations-by-aleo) - NFTs for the Aleo Setup Ceremony participants
+- [aleo-nft](https://github.com/demox-labs/aleo-nft) - Колекція NFT в мережі Aleo
+- [Setup Ceremony NFTs](https://opensea.io/collection/fluctuations-by-aleo) - NFT для учасників церемонії налаштування Aleo
 
-### Bridging
+### Мости
 
-- [Eclipse](https://github.com/eqlabs/eclipse) - Bridging ecosystems by storing zero-knowledge proofs of Solana votes on Aleo
+- [Eclipse](https://github.com/eqlabs/eclipse) - Брідж екосистем шляхом зберігання доказів з нульовою інформацією голосів Solana на Aleo
+### Децентралізовані фінанси (DeFi)
 
-### Decentralized Finance (DeFi)
+- [aleo/token](https://github.com/AleoHQ/aleo/tree/testnet3/examples/token) -  Приклад власного активу Aleo
+- [ARC20 draft](https://github.com/Entropy1729/ARC20_leo) - Чернетка пропозиції токену ARC20
 
-- [aleo/token](https://github.com/AleoHQ/aleo/tree/testnet3/examples/token) - An Aleo custom asset example
-- [ARC20 draft](https://github.com/Entropy1729/ARC20_leo) - An ARC20 token draft proposal
+### Провідники
 
-### Explorers
+- [Aleo Explorer](https://www.aleo.network/) - Офіційний провідник блокчейну для Aleo
 
-- [Aleo Explorer](https://www.aleo.network/) - The official blockchain explorer for Aleo
+### Ідентичність та аутентифікація
 
-### Identity & Authentication
+- [Nemean](https://github.com/AleoHQ/nemean) - CLI та SDK для адміністраторів та інженерів для взаємодії з мережею Aleo
+    - [Introducing Nemean](https://blog.pinestreetlabs.com/pine-street-labs-aleo-introducing-nemean/) - Пост у блозі, написаний Pine Street Labs, що пояснює Nemean
+    - [Aleo Grant Recipient: Pine Street Labs](https://www.aleo.org/post/aleo-grants-pine-street-labs) - Транскрипт інтерв'ю з Pine Street Labs
+    - [Pine Street Labs Fireside Chat](https://www.youtube.com/watch?v=B4lqbuyNozU&ab_channel=Aleo) - Неформальна бесіда з командою Pine Street Labs
+- [Spruce DID Kit](https://www.spruceid.dev/didkit/didkit-examples/core-functions-with-aleo) - Видача та перевірка перевірених відомостей за допомогою акаунтів Aleo
+    - [Spruce Fireside Chat](https://www.youtube.com/watch?v=9L9xSxgvuX8&ab_channel=Aleo) - Бесіда з командою Spruce
+- [zkDrop](https://github.com/4sm-ops/zkDrop/) - Концепція цифрового ID та безпечного обміну файлами на основі Aleo
 
-- [Nemean](https://github.com/AleoHQ/nemean) - A CLI and SDK for custodians and engineers to interact with the Aleo network
-    - [Introducing Nemean](https://blog.pinestreetlabs.com/pine-street-labs-aleo-introducing-nemean/) - Blog post written by Pine Street Labs explaining Nemean
-    - [Aleo Grant Recipient: Pine Street Labs](https://www.aleo.org/post/aleo-grants-pine-street-labs) - Transcript interview with Pine Street Labs
-    - [Pine Street Labs Fireside Chat](https://www.youtube.com/watch?v=B4lqbuyNozU&ab_channel=Aleo) - Fireside chat with the Pine Street Labs team
-- [Spruce DID Kit](https://www.spruceid.dev/didkit/didkit-examples/core-functions-with-aleo) - Issuance and verification of verifiable credentials using Aleo accounts
-    - [Spruce Fireside Chat](https://www.youtube.com/watch?v=9L9xSxgvuX8&ab_channel=Aleo) - Fireside chat with the Spruce team
-- [zkDrop](https://github.com/4sm-ops/zkDrop/) - Digital ID and secure file sharing concept based on Aleo
+### Ігри
 
-### Gaming
+- [Battleship](https://github.com/demox-labs/zk-battleship) - Морський бій з ZK на Aleo
+- [CoinFlip](https://github.com/demox-labs/zk-coinflip) - 2-стороннє рандомне підкидання монети на Aleo
+- [Roulette](https://github.com/Entropy1729/aleo_roulette) - Веб-додаток рулетки, побудований на основі Aleo [[Жива демонстрація]](https://roulette.cluster.entropy1729.com/)
+- [leo/tictactoe](https://github.com/AleoHQ/leo/tree/testnet3/examples/tictactoe) - Реалізація гри в хрестики-нулики в Leo
+- [Boloney](https://github.com/Kryha/boloney) - Онлайн багатокористувацька гра в кубики, яка демонструє потенціал платформи ZKP Aleo
+- [ZK Commitments for atomic Sudoku swaps](https://github.com/dorebell/zksudoku) - Умовні платежі Грега Максвелла з нульовими знаннями
+- [Aleo Monopoly](https://github.com/Elexy101/Aleo-Monopoly) - Проста гра в Монополію, написана на Leo
+- [Aleo Wordle](https://github.com/pineappleworkshop/aleo-zordle) - Wordle на Aleo
+- [Aleo Rock Paper Scizzors](https://github.com/pineappleworkshop/aleo-roshambo) - Камінь, ножиці, папір на Aleo
+- [Sudoku, Wordle, and Trivia](https://github.com/ruizehung/Zero-Knowledge-Sudoku-Wordle-Trivia) - Sudoku, Wordle та Trivia в Leo
 
-- [Battleship](https://github.com/demox-labs/zk-battleship) - ZK Battleship on Aleo
-- [CoinFlip](https://github.com/demox-labs/zk-coinflip) - A 2-party random coin flip on Aleo
-- [Roulette](https://github.com/Entropy1729/aleo_roulette) - A Roulette web app built on Aleo [[Live Demo]](https://roulette.cluster.entropy1729.com/)
-- [leo/tictactoe](https://github.com/AleoHQ/leo/tree/testnet3/examples/tictactoe) - An implementation of TicTacToe in Leo
-- [Boloney](https://github.com/Kryha/boloney) - An online multiplayer dice game showcasing the potential of Aleo's ZKP platform
-- [ZK Commitments for atomic Sudoku swaps](https://github.com/dorebell/zksudoku) - Greg Maxwell’s Zero Knowledge Contingent Payments
-- [Aleo Monopoly](https://github.com/Elexy101/Aleo-Monopoly) - Simple game of Monopoly written in Leo
-- [Aleo Wordle](https://github.com/pineappleworkshop/aleo-zordle) - Wordle on Aleo
-- [Aleo Rock Paper Scizzors](https://github.com/pineappleworkshop/aleo-roshambo) - Rock paper scizzors on Aleo
-- [Sudoku, Wordle, and Trivia](https://github.com/ruizehung/Zero-Knowledge-Sudoku-Wordle-Trivia) - Sudoku, Wordle, and Trivia in Leo 
+### Управління
 
-### Governance
+- [MACI](https://github.com/Entropy1729/aleo_minimum_anti_collusion_infrastructure) - Мінімальна антикорупційна інфраструктура на Aleo
+- [Aleo-Vote](https://github.com/zkprivacy/aleo-vote) - Додаток для голосування ZK на Aleo
+- [leo/vote](https://github.com/AleoHQ/leo/tree/testnet3/examples/vote) - Приклад механізму пропозиції та голосування, створеного за допомогою Leo
+- [ZK Suggestion Box](https://github.com/demox-labs/zk-suggestion-box) - Анонімна скринька пропозицій, створена на Aleo
 
-- [MACI](https://github.com/Entropy1729/aleo_minimum_anti_collusion_infrastructure) - Minimum Anti-Collusion Infrastructure on Aleo
-- [Aleo-Vote](https://github.com/zkprivacy/aleo-vote) - A ZK voting application on Aleo
-- [leo/vote](https://github.com/AleoHQ/leo/tree/testnet3/examples/vote) - An example propose and vote mechanism build using Leo
-- [ZK Suggestion Box](https://github.com/demox-labs/zk-suggestion-box) - An anonymous suggestion box built on Aleo
+### Машинне навчання
 
-### Machine Learning
+- [neural network inference and leo program generator](https://github.com/zeroknowledgetutorials/leo-neural-networks) - Реалізація інференції нейронної мережі в Leo та програма Python для генерації коду Leo для інференції нейронної мережі
+- [numerical optimization example](https://github.com/vicsn/leo-numerical-optimization) - Приклад реалізації доказу того, що навчання моделі пройшло успішно відносно певного набору даних, без необхідності доказувати весь слід навчання.
 
-- [neural network inference and leo program generator](https://github.com/zeroknowledgetutorials/leo-neural-networks) - An implementation of a neural network inference in Leo, and a Python program to genereate Leo code for neural network inference
-- [numerical optimization example](https://github.com/vicsn/leo-numerical-optimization) - An example implementation of proving model training succeeded with respect to a certain dataset, without having to prove the entire trace of the training. 
+### Майданчики для торгівлі
 
-### Marketplaces
+- [leo/auction](https://github.com/AleoHQ/leo/tree/testnet3/examples/auction) - Формат запису аукціону, створений у Leo
 
-- [leo/auction](https://github.com/AleoHQ/leo/tree/testnet3/examples/auction) - An auction record format built in Leo
+### Оракули
 
-### Oracles
+Допоможіть заповнити це!
 
-Help fill me in!
 
-### Wallets
+### Гаманці 
 
-- [Metamask Snap - Aleo](https://piotr-roslaniec.github.io/aleo-snap/) - A MetaMask-compatible wallet extension for Aleo accounts
-- [(Unofficial) Account SDK](https://github.com/qqmee/aleo-sdk) - An unofficial account SDK for Aleo
-- [Aleo Wallet](https://chrome.google.com/webstore/detail/aleo-wallet/gnebojbimjelkmlfifljmilecfnonhnc?hl=en) - A Chrome extension for an Aleo wallet
-- [Leo Wallet](https://leo.app/) - A simple and private wallet for Aleo. Early access waitlist now open.
-- [Leo Wallet Adapter SDK](https://github.com/demox-labs/aleo-wallet-adapter) - A SDK for integrating with the Leo wallet
+- [Metamask Snap - Aleo](https://piotr-roslaniec.github.io/aleo-snap/) - Розширення гаманця, сумісне з MetaMask, для облікових записів Aleo
+- [(Unofficial) Account SDK](https://github.com/qqmee/aleo-sdk) - Неофіційний SDK для облікового запису Aleo
+- [Aleo Wallet](https://chrome.google.com/webstore/detail/aleo-wallet/gnebojbimjelkmlfifljmilecfnonhnc?hl=en) - Розширення для Chrome для гаманця Aleo
+- [Leo Wallet](https://leo.app/) - Простий і приватний гаманець для Aleo. Зараз відкрито ранній доступ до списку очікування.
+- [Leo Wallet Adapter SDK](https://github.com/demox-labs/aleo-wallet-adapter) - SDK для інтеграції з гаманцем Leo
