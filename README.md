@@ -136,7 +136,7 @@
 - [Nemean](https://github.com/AleoHQ/nemean) - CLI та SDK для адміністраторів та інженерів для взаємодії з мережею Aleo
     - [Introducing Nemean](https://blog.pinestreetlabs.com/pine-street-labs-aleo-introducing-nemean/) - Пост у блозі, написаний Pine Street Labs, що пояснює Nemean
     - [Aleo Grant Recipient: Pine Street Labs](https://www.aleo.org/post/aleo-grants-pine-street-labs) - Транскрипт інтерв'ю з Pine Street Labs
-    - [Pine Street Labs Fireside Chat](https://www.youtube.com/watch?v=B4lqbuyNozU&ab_channel=Aleo) - Неформальна бесіда з командою Pine Street Labs
+    - [Pine Street Labs Fireside Chat](https://www.youtube.com/watch?v=B4lqbuyNozU&ab_channel=Aleo) - Бесіда з командою Pine Street Labs
 - [Spruce DID Kit](https://www.spruceid.dev/didkit/didkit-examples/core-functions-with-aleo) - Видача та перевірка перевірених відомостей за допомогою акаунтів Aleo
     - [Spruce Fireside Chat](https://www.youtube.com/watch?v=9L9xSxgvuX8&ab_channel=Aleo) - Бесіда з командою Spruce
 - [zkDrop](https://github.com/4sm-ops/zkDrop/) - Концепція цифрового ID та безпечного обміну файлами на основі Aleo
