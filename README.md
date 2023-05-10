@@ -156,7 +156,8 @@ The following is a curated list of applications powered by Aleo.
 - [Aleo Monopoly](https://github.com/Elexy101/Aleo-Monopoly) - Simple game of Monopoly written in Leo
 - [Aleo Wordle](https://github.com/pineappleworkshop/aleo-zordle) - Wordle on Aleo
 - [Aleo Rock Paper Scizzors](https://github.com/pineappleworkshop/aleo-roshambo) - Rock paper scizzors on Aleo
-- [Sudoku, Wordle, and Trivia](https://github.com/ruizehung/Zero-Knowledge-Sudoku-Wordle-Trivia) - Sudoku, Wordle, and Trivia in Leo 
+- [Sudoku, Wordle, and Trivia](https://github.com/ruizehung/Zero-Knowledge-Sudoku-Wordle-Trivia) - Sudoku, Wordle, and Trivia in Leo
+- [ZK Stratego](https://github.com/evan-schott/zk-stratego) A game of Stratego, themed as a crypto company
 
 ### Governance
 
