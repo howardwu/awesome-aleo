@@ -112,7 +112,7 @@
 - [is_prime](https://github.com/arosboro/is_prime) -  Програма Aleo для видачі простих токенів
 - [leo/bubblesort](https://github.com/AleoHQ/leo/tree/testnet3/examples/bubblesort) - Реалізація алгоритму сортування-бульбашкою в Leo
 - [leo/groups](https://github.com/AleoHQ/leo/tree/testnet3/examples/groups) - Приклад операцій з групами в Leo
-- [leo/twoadicity](https://github.com/AleoHQ/leo/tree/testnet3/examples/twoadicity) - An implementation of computing the two-adicity in Leo
+- [leo/twoadicity](https://github.com/AleoHQ/leo/tree/testnet3/examples/twoadicity) - Реалізація обчислення двоадичності у Leo
 
 ### Арти
 
