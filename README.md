@@ -36,7 +36,7 @@
     - [Оракули](#оракули)
     - [Гаманці](#гаманці)
 
-## Анонси & Новини
+## Анонси та Новини
 
 - [Aleo Discord](https://aleo.org/discord) -  Офіційний Discord Aleo
 - [Aleo Twitter](https://twitter.com/AleoHQ) - Офіційний Twitter Aleo
@@ -50,7 +50,7 @@
 - [Повністю приватні програми: Протокол Zexe](https://www.entropy1729.com/zexe/) - Вступ до децентралізованого реєстру для повністю приватних додатків
 - [Початок роботи з інструкціями Aleo](https://www.entropy1729.com/getting-started-aleo-instructions/) - Розбір простого прикладу з інструкції Aleo
 
-## Презентації & обговорення
+## Презентації та обговорення
 
 - [Вступ до zkSNARKs з Говардом Ву](https://zeroknowledge.fm/38-2/) - Подкаст "Zero Knowledge": Епізод 38
 - [Демістифікація програмування з нульовими знаннями](https://www.youtube.com/watch?v=-FrrylHITvg) - Вступ до моделі запису
