@@ -133,6 +133,7 @@ The following is a curated list of applications powered by Aleo.
 ### Explorers
 
 - [Aleo Explorer](https://www.aleo.network/) - The official blockchain explorer for Aleo
+- [Hamp Explorer](https://explorer.hamp.app/) - Haruka's Aleo Explorer
 
 ### Identity & Authentication
 
