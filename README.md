@@ -141,7 +141,7 @@ The following is a curated list of applications powered by Aleo.
 - [Zenet](https://github.com/ZenetGame/ZenetAleo) - The ancient Egyptian game of Senet on Aleo
 - [Battleship](https://github.com/demox-labs/zk-battleship) - ZK Battleship on Aleo
 - [CoinFlip](https://github.com/demox-labs/zk-coinflip) - A 2-party random coin flip on Aleo
-- [Roulette](https://github.com/Entropy1729/aleo_roulette) - A Roulette web app built on Aleo [[Live Demo]](https://roulette.cluster.entropy1729.com/)
+- [Roulette](https://github.com/Entropy1729/aleo_roulette) - A Roulette web app built on Aleo
 - [leo/tictactoe](https://github.com/AleoHQ/leo/tree/testnet3/examples/tictactoe) - An implementation of TicTacToe in Leo
 - [Boloney](https://github.com/Kryha/boloney) - An online multiplayer dice game showcasing the potential of Aleo's ZKP platform
 - [ZK Commitments for atomic Sudoku swaps](https://github.com/dorebell/zksudoku) - Greg Maxwell’s Zero Knowledge Contingent Payments
