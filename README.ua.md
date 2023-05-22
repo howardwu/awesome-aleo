@@ -43,13 +43,6 @@
 - [Новини тижня в Aleo - Telegram](https://t.me/aleoweeklynews) - (Неофіційне) Цього тижня в Алео
 - [Цього тижня в Алео](https://www.weekinaleonews.com/) - Неофіційна розсилка оновлень для розробників Aleo
 
-## Навчальні матеріали
-
-- [Вступ до Aleo](https://www.entropy1729.com/aleo-introduction/) - Вступ до основних понять програмування в Aleo
-- [Starter Pack для Aleo розробників](https://www.entropy1729.com/aleo-development-starter-pack/) - Огляд того, як писати інструкції Aleo
-- [Повністю приватні програми: Протокол Zexe](https://www.entropy1729.com/zexe/) - Вступ до децентралізованого реєстру для повністю приватних додатків
-- [Початок роботи з інструкціями Aleo](https://www.entropy1729.com/getting-started-aleo-instructions/) - Розбір простого прикладу з інструкції Aleo
-
 ## Презентації та обговорення
 
 - [Вступ до zkSNARKs з Говардом Ву](https://zeroknowledge.fm/38-2/) - Подкаст "Zero Knowledge": Епізод 38
