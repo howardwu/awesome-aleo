@@ -40,8 +40,6 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 
 - [Aleo Discord](https://aleo.org/discord) - The official Aleo Discord channel
 - [Aleo Twitter](https://twitter.com/AleoHQ) - The official Aleo Twitter account
-- [Week In Aleo News - Telegram](https://t.me/aleoweeklynews) - (Unofficial) This Week in Aleo
-- [This Week in Aleo](https://www.weekinaleonews.com/) - An unofficial newsletter for Aleo developer updates
 
 ## Presentations & Talks
 
@@ -171,6 +169,7 @@ The following is a curated list of applications powered by Aleo.
 
 ### Wallets
 
+- [Aleo Faucet](https://faucet.aleo.org) - The official Aleo Testnet Faucet
 - [Metamask Snap - Aleo](https://piotr-roslaniec.github.io/aleo-snap/) - A MetaMask-compatible wallet extension for Aleo accounts
 - [(Unofficial) Account SDK](https://github.com/qqmee/aleo-sdk) - An unofficial account SDK for Aleo
 - [Aleo Wallet](https://chrome.google.com/webstore/detail/aleo-wallet/gnebojbimjelkmlfifljmilecfnonhnc?hl=en) - A Chrome extension for an Aleo wallet
