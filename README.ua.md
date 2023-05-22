@@ -136,7 +136,7 @@
 
 - [Battleship](https://github.com/demox-labs/zk-battleship) - Морський бій з ZK на Aleo
 - [CoinFlip](https://github.com/demox-labs/zk-coinflip) - 2-стороннє рандомне підкидання монети на Aleo
-- [Roulette](https://github.com/Entropy1729/aleo_roulette) - Веб-додаток рулетки, побудований на основі Aleo [[Жива демонстрація]](https://roulette.cluster.entropy1729.com/)
+- [Roulette](https://github.com/Entropy1729/aleo_roulette) - Веб-додаток рулетки, побудований на основі Aleo
 - [leo/tictactoe](https://github.com/AleoHQ/leo/tree/testnet3/examples/tictactoe) - Реалізація гри в хрестики-нулики в Leo
 - [Boloney](https://github.com/Kryha/boloney) - Онлайн багатокористувацька гра в кубики, яка демонструє потенціал платформи ZKP Aleo
 - [ZK Commitments for atomic Sudoku swaps](https://github.com/dorebell/zksudoku) - Умовні платежі Грега Максвелла з нульовими знаннями
