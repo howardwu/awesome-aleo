@@ -169,10 +169,6 @@ The following is a curated list of applications powered by Aleo.
 
 - [leo/auction](https://github.com/AleoHQ/leo/tree/testnet3/examples/auction) - An auction record format built in Leo
 
-### Oracles
-
-Help fill me in!
-
 ### Wallets
 
 - [Metamask Snap - Aleo](https://piotr-roslaniec.github.io/aleo-snap/) - A MetaMask-compatible wallet extension for Aleo accounts
