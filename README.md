@@ -62,7 +62,7 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 
 ## Core Libraries
 
-- [Aleo](https://github.com/AleoHQ/aleo) - A Software Development Kit (SDK) for Zero-Knowledge Transactions
+- [SDK](https://github.com/AleoHQ/aleo) - A Software Development Kit (SDK) for Zero-Knowledge Transactions
 - [Leo](https://github.com/AleoHQ/leo) - A Functional, Statically-Typed Language for Zero-Knowledge Applications
 - [snarkOS](https://github.com/AleoHQ/snarkOS) - A Decentralized Operating System for Zero-Knowledge Applications
 - [snarkVM](https://github.com/AleoHQ/snarkVM) - A Virtual Machine for Zero-Knowledge Executions
