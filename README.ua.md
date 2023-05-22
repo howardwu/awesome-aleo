@@ -40,8 +40,6 @@
 
 - [Aleo Discord](https://aleo.org/discord) -  Офіційний Discord Aleo
 - [Aleo Twitter](https://twitter.com/AleoHQ) - Офіційний Twitter Aleo
-- [Новини тижня в Aleo - Telegram](https://t.me/aleoweeklynews) - (Неофіційне) Цього тижня в Алео
-- [Цього тижня в Алео](https://www.weekinaleonews.com/) - Неофіційна розсилка оновлень для розробників Aleo
 
 ## Презентації та обговорення
 
@@ -165,6 +163,7 @@
 
 ### Гаманці 
 
+- [Aleo Faucet](https://faucet.aleo.org) - The official Aleo Testnet Faucet
 - [Metamask Snap - Aleo](https://piotr-roslaniec.github.io/aleo-snap/) - Розширення гаманця, сумісне з MetaMask, для облікових записів Aleo
 - [(Unofficial) Account SDK](https://github.com/qqmee/aleo-sdk) - Неофіційний SDK для облікового запису Aleo
 - [Aleo Wallet](https://chrome.google.com/webstore/detail/aleo-wallet/gnebojbimjelkmlfifljmilecfnonhnc?hl=en) - Розширення для Chrome для гаманця Aleo
