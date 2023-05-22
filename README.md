@@ -43,13 +43,6 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 - [Week In Aleo News - Telegram](https://t.me/aleoweeklynews) - (Unofficial) This Week in Aleo
 - [This Week in Aleo](https://www.weekinaleonews.com/) - An unofficial newsletter for Aleo developer updates
 
-## Tutorials
-
-- [An introduction to Aleo](https://www.entropy1729.com/aleo-introduction/) - An introduction to the core concepts of programming in Aleo
-- [Aleo Development Starter Pack](https://www.entropy1729.com/aleo-development-starter-pack/) - Overview of how to write Aleo instructions
-- [Fully-Private Applications: The Zexe Protocol](https://www.entropy1729.com/zexe/) - Intro to a decentralized ledger for fully-private applications
-- [Getting Started with Aleo Instructions](https://www.entropy1729.com/getting-started-aleo-instructions/) - A walkthrough of a simple example in Aleo instructions
-
 ## Presentations & Talks
 
 - [Introduction to zkSNARKs with Howard Wu](https://zeroknowledge.fm/38-2/) - Zero Knowledge Podcast: Episode 38
