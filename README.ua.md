@@ -163,11 +163,6 @@
 
 - [leo/auction](https://github.com/AleoHQ/leo/tree/testnet3/examples/auction) - Формат запису аукціону, створений у Leo
 
-### Оракули
-
-Допоможіть заповнити це!
-
-
 ### Гаманці 
 
 - [Metamask Snap - Aleo](https://piotr-roslaniec.github.io/aleo-snap/) - Розширення гаманця, сумісне з MetaMask, для облікових записів Aleo
