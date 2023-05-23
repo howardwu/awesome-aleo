@@ -12,7 +12,6 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 ## Table of Contents
 
 - [Announcements & News](#announcements--news)
-- [Tutorials](#tutorials)
 - [Presentations & Talks](#presentations--talks)
 - [Research Papers & Resources](#research-papers--resources)
 - [Core Libraries](#core-libraries)
