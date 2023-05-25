@@ -143,10 +143,11 @@ The following is a curated list of applications powered by Aleo.
 - [Roulette](https://github.com/Entropy1729/aleo_roulette) - A Roulette web app built on Aleo
 - [leo/tictactoe](https://github.com/AleoHQ/leo/tree/testnet3/examples/tictactoe) - An implementation of TicTacToe in Leo
 - [Boloney](https://github.com/Kryha/boloney) - An online multiplayer dice game showcasing the potential of Aleo's ZKP platform
+- [ZK Gaming Toolkit](https://github.com/Kryha/zk-gaming-toolkit) - A toolkit with a variety of pre-built primitives written in Leo for ZK-powered games
 - [ZK Commitments for atomic Sudoku swaps](https://github.com/dorebell/zksudoku) - Greg Maxwell’s Zero Knowledge Contingent Payments
 - [Aleo Monopoly](https://github.com/Elexy101/Aleo-Monopoly) - Simple game of Monopoly written in Leo
 - [Aleo Wordle](https://github.com/pineappleworkshop/aleo-zordle) - Wordle on Aleo
-- [Aleo Rock Paper Scizzors](https://github.com/pineappleworkshop/aleo-roshambo) - Rock paper scizzors on Aleo
+- [Aleo Rock Paper Scizzors](https://github.com/pineappleworkshop/aleo-roshambo) - Rock-Paper-Scissors on Aleo
 - [Sudoku, Wordle, and Trivia](https://github.com/ruizehung/Zero-Knowledge-Sudoku-Wordle-Trivia) - Sudoku, Wordle, and Trivia in Leo
 - [ZK Stratego](https://github.com/evan-schott/zk-stratego) A game of Stratego, themed as a crypto company
 
