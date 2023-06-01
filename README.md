@@ -147,7 +147,7 @@ The following is a curated list of applications powered by Aleo.
 - [ZK Commitments for atomic Sudoku swaps](https://github.com/dorebell/zksudoku) - Greg Maxwell’s Zero Knowledge Contingent Payments
 - [Aleo Monopoly](https://github.com/Elexy101/Aleo-Monopoly) - Simple game of Monopoly written in Leo
 - [Aleo Wordle](https://github.com/pineappleworkshop/aleo-zordle) - Wordle on Aleo
-- [Aleo Rock Paper Scizzors](https://github.com/pineappleworkshop/aleo-roshambo) - Rock-Paper-Scissors on Aleo
+- [Rock, Paper, Scissors](https://github.com/pineappleworkshop/aleo-roshambo) - Rock, Paper, Scissors on Aleo
 - [Sudoku, Wordle, and Trivia](https://github.com/ruizehung/Zero-Knowledge-Sudoku-Wordle-Trivia) - Sudoku, Wordle, and Trivia in Leo
 - [ZK Stratego](https://github.com/evan-schott/zk-stratego) A game of Stratego, themed as a crypto company
 
