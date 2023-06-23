@@ -150,6 +150,7 @@ The following is a curated list of applications powered by Aleo.
 - [Rock, Paper, Scissors](https://github.com/pineappleworkshop/aleo-roshambo) - Rock, Paper, Scissors on Aleo
 - [Sudoku, Wordle, and Trivia](https://github.com/ruizehung/Zero-Knowledge-Sudoku-Wordle-Trivia) - Sudoku, Wordle, and Trivia in Leo
 - [ZK Stratego](https://github.com/evan-schott/zk-stratego) A game of Stratego, themed as a crypto company
+- [QuizGame](https://github.com/liolikus/QuizGame) Simple and fully documented React-based Quiz Game
 
 ### Governance
 
