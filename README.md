@@ -119,6 +119,7 @@ The following is a curated list of applications powered by Aleo.
 
 - [aleo/token](https://github.com/AleoHQ/aleo/tree/testnet3/examples/token) - An Aleo custom asset example
 - [ARC20 draft](https://github.com/Entropy1729/ARC20_leo) - An ARC20 token draft proposal
+- [AtomiK](https://github.com/AtomicZK/atomiK-protocol) - DEX doing cross-chain atomic swaps with ZK for liquidity providing, increasing security in bridging between Aleo & XDC (EVM compatible chains).
 
 ### Explorers
 
