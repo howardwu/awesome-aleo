@@ -108,7 +108,8 @@ The following is a curated list of applications powered by Aleo.
 
 ### Art
 
-- [aleo-nft](https://github.com/demox-labs/aleo-nft) - An NFT collection on the Aleo network
+- [art-factory](https://github.com/demox-labs/art-factory) - A fully functioning dapp, ready to deploy your own NFT collection with.
+- [Privacy Pride](https://www.privacypride.com/) - A deployed, production version of art factory, hosting Aleo's first NFT collection.
 - [Setup Ceremony NFTs](https://opensea.io/collection/fluctuations-by-aleo) - NFTs for the Aleo Setup Ceremony participants
 
 ### Bridging
@@ -119,6 +120,7 @@ The following is a curated list of applications powered by Aleo.
 
 - [aleo/token](https://github.com/AleoHQ/aleo/tree/testnet3/examples/token) - An Aleo custom asset example
 - [ARC20 draft](https://github.com/Entropy1729/ARC20_leo) - An ARC20 token draft proposal
+- [ARC-721 Draft](https://github.com/AleoHQ/ARCs/discussions/36) - An ARC-721 draft proposal
 
 ### Explorers
 
@@ -173,6 +175,5 @@ The following is a curated list of applications powered by Aleo.
 - [Aleo Faucet](https://faucet.aleo.org) - The official Aleo Testnet Faucet
 - [Metamask Snap - Aleo](https://piotr-roslaniec.github.io/aleo-snap/) - A MetaMask-compatible wallet extension for Aleo accounts
 - [(Unofficial) Account SDK](https://github.com/qqmee/aleo-sdk) - An unofficial account SDK for Aleo
-- [Aleo Wallet](https://chrome.google.com/webstore/detail/aleo-wallet/gnebojbimjelkmlfifljmilecfnonhnc?hl=en) - A Chrome extension for an Aleo wallet
 - [Leo Wallet](https://leo.app/) - A simple and private wallet for Aleo. Early access waitlist now open.
 - [Leo Wallet Adapter SDK](https://github.com/demox-labs/aleo-wallet-adapter) - A SDK for integrating with the Leo wallet
