@@ -110,6 +110,7 @@ The following is a curated list of applications powered by Aleo.
 
 - [aleo-nft](https://github.com/demox-labs/aleo-nft) - An NFT collection on the Aleo network
 - [Setup Ceremony NFTs](https://opensea.io/collection/fluctuations-by-aleo) - NFTs for the Aleo Setup Ceremony participants
+- [Aleo.store](https://aleo.store) - Aleo NFT Marketplace and Open source NFT standard proposition.
 
 ### Bridging
 
