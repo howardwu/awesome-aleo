@@ -171,7 +171,6 @@ The following is a curated list of applications powered by Aleo.
 ### Wallets
 
 - [Aleo Faucet](https://faucet.aleo.org) - The official Aleo Testnet Faucet
-- [Metamask Snap - Aleo](https://piotr-roslaniec.github.io/aleo-snap/) - A MetaMask-compatible wallet extension for Aleo accounts
 - [(Unofficial) Account SDK](https://github.com/qqmee/aleo-sdk) - An unofficial account SDK for Aleo
 - [Aleo Wallet](https://chrome.google.com/webstore/detail/aleo-wallet/gnebojbimjelkmlfifljmilecfnonhnc?hl=en) - A Chrome extension for an Aleo wallet
 - [Leo Wallet](https://leo.app/) - A simple and private wallet for Aleo. Early access waitlist now open.
