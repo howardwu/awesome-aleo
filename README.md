@@ -134,6 +134,7 @@ The following is a curated list of applications powered by Aleo.
 - [Spruce DID Kit](https://www.spruceid.dev/didkit/didkit-examples/core-functions-with-aleo) - Issuance and verification of verifiable credentials using Aleo accounts
     - [Spruce Fireside Chat](https://www.youtube.com/watch?v=9L9xSxgvuX8&ab_channel=Aleo) - Fireside chat with the Spruce team
 - [zkDrop](https://github.com/4sm-ops/zkDrop/) - Digital ID and secure file sharing concept based on Aleo
+- [ANS](https://github.com/S-T-Soft/aleo-name-service-contract) - The Aleo Naming Service
 
 ### Gaming
 
