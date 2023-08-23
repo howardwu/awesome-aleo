@@ -119,6 +119,7 @@ The following is a curated list of applications powered by Aleo.
 
 - [aleo/token](https://github.com/AleoHQ/aleo/tree/testnet3/examples/token) - An Aleo custom asset example
 - [ARC20 draft](https://github.com/Entropy1729/ARC20_leo) - An ARC20 token draft proposal
+- [AleoSwap](https://github.com/aleoswap-labs/aleoswap) - A decentralized exchange (DEX) built on the Aleo blockchain
 
 ### Explorers
 
