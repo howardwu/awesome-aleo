@@ -143,6 +143,8 @@
 - [Aleo Wordle](https://github.com/pineappleworkshop/aleo-zordle) - Wordle на Aleo
 - [Aleo Rock Paper Scizzors](https://github.com/pineappleworkshop/aleo-roshambo) - Камінь, ножиці, папір на Aleo
 - [Sudoku, Wordle, and Trivia](https://github.com/ruizehung/Zero-Knowledge-Sudoku-Wordle-Trivia) - Sudoku, Wordle та Trivia в Leo
+- [ZK Stratego](https://github.com/evan-schott/zk-stratego) Гра Stratego на тему криптовалютної компанії
+- [QuizGame](https://github.com/liolikus/QuizGame) Проста та повністю документована гра-вікторина на базі React
 
 ### Управління
 
