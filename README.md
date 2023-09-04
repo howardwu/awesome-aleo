@@ -164,6 +164,12 @@ The following is a curated list of applications powered by Aleo.
 
 - [neural network inference and leo program generator](https://github.com/zeroknowledgetutorials/leo-neural-networks) - An implementation of a neural network inference in Leo, and a Python program to genereate Leo code for neural network inference
 - [numerical optimization example](https://github.com/vicsn/leo-numerical-optimization) - An example implementation of proving model training succeeded with respect to a certain dataset, without having to prove the entire trace of the training. 
+- [zero knowledge linear regression model](https://github.com/kpandl/leo-linear-regression)
+- [leo <> python language transpiler](https://github.com/snowtigersoft/run_leo)
+- [proof of concept KYC platform using zkML](https://github.com/B1boid/zk-KYC)
+- [leo <> python language transpiler](https://github.com/stakemepro/aleo-zkml-initiative-1)
+- [transpiler for python compatible boosting models](https://github.com/Danielto1404/aleo-boosting)
+- [zkML models on Aleo](https://github.com/storswiftlabs/zkML)
 
 ### Marketplaces
 
