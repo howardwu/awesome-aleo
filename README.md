@@ -108,8 +108,10 @@ The following is a curated list of applications powered by Aleo.
 
 ### Art
 
-- [aleo-nft](https://github.com/demox-labs/aleo-nft) - An NFT collection on the Aleo network
+- [art-factory](https://github.com/demox-labs/art-factory) - A fully functioning dapp, ready to deploy your own NFT collection with.
+- [Privacy Pride](https://www.privacypride.com/) - A deployed, production version of art factory, hosting Aleo's first NFT collection.
 - [Setup Ceremony NFTs](https://opensea.io/collection/fluctuations-by-aleo) - NFTs for the Aleo Setup Ceremony participants
+- [Aleo.store](https://aleo.store) - Aleo NFT Marketplace and Open source NFT standard proposition.
 
 ### Bridging
 
@@ -119,6 +121,8 @@ The following is a curated list of applications powered by Aleo.
 
 - [aleo/token](https://github.com/AleoHQ/aleo/tree/testnet3/examples/token) - An Aleo custom asset example
 - [ARC20 draft](https://github.com/Entropy1729/ARC20_leo) - An ARC20 token draft proposal
+- [ARC-721 Draft](https://github.com/AleoHQ/ARCs/discussions/36) - An ARC-721 draft proposal
+- [AtomiK](https://github.com/AtomicZK/atomiK-protocol) - DEX doing cross-chain atomic swaps with ZK for liquidity providing, increasing security in bridging between Aleo & XDC (EVM compatible chains).
 - [AleoSwap](https://github.com/aleoswap-labs/aleoswap) - A decentralized exchange (DEX) built on the Aleo blockchain
 
 ### Explorers
@@ -135,6 +139,7 @@ The following is a curated list of applications powered by Aleo.
 - [Spruce DID Kit](https://www.spruceid.dev/didkit/didkit-examples/core-functions-with-aleo) - Issuance and verification of verifiable credentials using Aleo accounts
     - [Spruce Fireside Chat](https://www.youtube.com/watch?v=9L9xSxgvuX8&ab_channel=Aleo) - Fireside chat with the Spruce team
 - [zkDrop](https://github.com/4sm-ops/zkDrop/) - Digital ID and secure file sharing concept based on Aleo
+- [ANS](https://github.com/S-T-Soft/aleo-name-service-contract) - The Aleo Naming Service
 
 ### Gaming
 
@@ -164,6 +169,12 @@ The following is a curated list of applications powered by Aleo.
 
 - [neural network inference and leo program generator](https://github.com/zeroknowledgetutorials/leo-neural-networks) - An implementation of a neural network inference in Leo, and a Python program to genereate Leo code for neural network inference
 - [numerical optimization example](https://github.com/vicsn/leo-numerical-optimization) - An example implementation of proving model training succeeded with respect to a certain dataset, without having to prove the entire trace of the training. 
+- [zero knowledge linear regression model](https://github.com/kpandl/leo-linear-regression)
+- [leo <> python language transpiler](https://github.com/snowtigersoft/run_leo)
+- [proof of concept KYC platform using zkML](https://github.com/B1boid/zk-KYC)
+- [leo <> python language transpiler](https://github.com/stakemepro/aleo-zkml-initiative-1)
+- [transpiler for python compatible boosting models](https://github.com/Danielto1404/aleo-boosting)
+- [zkML models on Aleo](https://github.com/storswiftlabs/zkML)
 
 ### Marketplaces
 
@@ -174,6 +185,5 @@ The following is a curated list of applications powered by Aleo.
 - [Aleo Faucet](https://faucet.aleo.org) - The official Aleo Testnet Faucet
 - [Metamask Snap - Aleo](https://piotr-roslaniec.github.io/aleo-snap/) - A MetaMask-compatible wallet extension for Aleo accounts
 - [(Unofficial) Account SDK](https://github.com/qqmee/aleo-sdk) - An unofficial account SDK for Aleo
-- [Aleo Wallet](https://chrome.google.com/webstore/detail/aleo-wallet/gnebojbimjelkmlfifljmilecfnonhnc?hl=en) - A Chrome extension for an Aleo wallet
 - [Leo Wallet](https://leo.app/) - A simple and private wallet for Aleo. Early access waitlist now open.
 - [Leo Wallet Adapter SDK](https://github.com/demox-labs/aleo-wallet-adapter) - A SDK for integrating with the Leo wallet
