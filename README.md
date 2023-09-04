@@ -111,6 +111,7 @@ The following is a curated list of applications powered by Aleo.
 - [art-factory](https://github.com/demox-labs/art-factory) - A fully functioning dapp, ready to deploy your own NFT collection with.
 - [Privacy Pride](https://www.privacypride.com/) - A deployed, production version of art factory, hosting Aleo's first NFT collection.
 - [Setup Ceremony NFTs](https://opensea.io/collection/fluctuations-by-aleo) - NFTs for the Aleo Setup Ceremony participants
+- [Aleo.store](https://aleo.store) - Aleo NFT Marketplace and Open source NFT standard proposition.
 
 ### Bridging
 
