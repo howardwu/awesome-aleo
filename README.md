@@ -141,6 +141,7 @@ The following is a curated list of applications powered by Aleo.
     - [Spruce Fireside Chat](https://www.youtube.com/watch?v=9L9xSxgvuX8&ab_channel=Aleo) - Fireside chat with the Spruce team
 - [zkDrop](https://github.com/4sm-ops/zkDrop/) - Digital ID and secure file sharing concept based on Aleo
 - [ANS](https://github.com/S-T-Soft/aleo-name-service-contract) - The Aleo Naming Service
+- [zkKYC](https://github.com/B1boid/zk-KYC) - A privacy preserving Know Your Customer (KYC) application built on Aleo.
 
 ### Gaming
 
@@ -168,14 +169,13 @@ The following is a curated list of applications powered by Aleo.
 
 ### Machine Learning
 
-- [neural network inference and leo program generator](https://github.com/zeroknowledgetutorials/leo-neural-networks) - An implementation of a neural network inference in Leo, and a Python program to genereate Leo code for neural network inference
-- [numerical optimization example](https://github.com/vicsn/leo-numerical-optimization) - An example implementation of proving model training succeeded with respect to a certain dataset, without having to prove the entire trace of the training. 
-- [zero knowledge linear regression model](https://github.com/kpandl/leo-linear-regression)
-- [leo <> python language transpiler](https://github.com/snowtigersoft/run_leo)
-- [proof of concept KYC platform using zkML](https://github.com/B1boid/zk-KYC)
-- [leo <> python language transpiler](https://github.com/stakemepro/aleo-zkml-initiative-1)
-- [transpiler for python compatible boosting models](https://github.com/Danielto1404/aleo-boosting)
-- [zkML models on Aleo](https://github.com/storswiftlabs/zkML)
+- [Neural Network Inference](https://github.com/zeroknowledgetutorials/leo-neural-networks) - An implementation of a neural network inference in Leo and Python
+- [Numerical Optimization](https://github.com/vicsn/leo-numerical-optimization) - Proving stocastic gradient descent using Leo and Otti
+- [Linear Regression](https://github.com/kpandl/leo-linear-regression) - Univariate linear regression in Leo
+- [Run Leo](https://github.com/snowtigersoft/run_leo) - A python package that transpiles Leo code to Python
+- [Generate Leo](https://github.com/stakemepro/aleo-zkml-initiative-1) - A python package that generates Leo code from Python
+- [Boosting Models](https://github.com/Danielto1404/aleo-boosting) - Privacy preserving ML using Boosting models on Aleo
+- [Gini Coefficient, Decision Tree, K-Means](https://github.com/storswiftlabs/zkML) - A library of machine learning algorithms implemented in Leo
 
 ### Marketplaces
 
