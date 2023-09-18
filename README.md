@@ -105,6 +105,7 @@ The following is a curated list of applications powered by Aleo.
 - [leo/bubblesort](https://github.com/AleoHQ/leo/tree/testnet3/examples/bubblesort) - A bubble-sort algorithm implementation in Leo
 - [leo/groups](https://github.com/AleoHQ/leo/tree/testnet3/examples/groups) - An example of group operations in Leo
 - [leo/twoadicity](https://github.com/AleoHQ/leo/tree/testnet3/examples/twoadicity) - An implementation of computing the two-adicity in Leo
+- [leo-elgamal](https://github.com/aerius-labs/leo-elgamal) - Multiplicative homomorphic encryption using ElGamal
 
 ### Art
 
