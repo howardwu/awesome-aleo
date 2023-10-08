@@ -178,6 +178,7 @@ The following is a curated list of applications powered by Aleo.
 - [Generate Leo](https://github.com/stakemepro/aleo-zkml-initiative-1) - A python package that generates Leo code from Python
 - [Boosting Models](https://github.com/Danielto1404/aleo-boosting) - Privacy preserving ML using Boosting models on Aleo
 - [Gini Coefficient, Decision Tree, K-Means](https://github.com/storswiftlabs/zkML) - A library of machine learning algorithms implemented in Leo
+- [zkKYC](https://github.com/B1boid/zk-KYC) - KYC platform using zkML (Zero-knowledge Machine Learning) algorithms on Aleo blockchain.
 
 ### Marketplaces
 
