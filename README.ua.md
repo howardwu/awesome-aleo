@@ -103,11 +103,15 @@
 - [leo/bubblesort](https://github.com/AleoHQ/leo/tree/testnet3/examples/bubblesort) - Реалізація алгоритму сортування-бульбашкою в Leo
 - [leo/groups](https://github.com/AleoHQ/leo/tree/testnet3/examples/groups) - Приклад операцій з групами в Leo
 - [leo/twoadicity](https://github.com/AleoHQ/leo/tree/testnet3/examples/twoadicity) - Реалізація обчислення двоадичності у Leo
+- [leo-elgamal](https://github.com/aerius-labs/leo-elgamal) - Мультиплікативне гомоморфне шифрування з використанням ElGamal
 
 ### Арти
 
-- [aleo-nft](https://github.com/demox-labs/aleo-nft) - Колекція NFT в мережі Aleo
-- [Setup Ceremony NFTs](https://opensea.io/collection/fluctuations-by-aleo) - NFT для учасників церемонії налаштування Aleo
+- [art-factory](https://github.com/demox-labs/art-factory) - Повноцінний dapp, готовий до розгортання вашої власної колекції NFT.
+- [Privacy Pride](https://www.privacypride.com/) - Розгорнута, продуктивна версія art factory, що розміщує першу колекцію NFT Aleo.
+- [Setup Ceremony NFTs](https://opensea.io/collection/fluctuations-by-aleo) -  NFT для учасників церемонії налаштування Aleo.
+- [Artgo](https://github.com/artgo-labs/artgo) - Платформа для створення та торгівлі NFT на базі AIGC.
+- [Aleo.store](https://aleo.store) - Ринок NFT Aleo та пропозиція стандарту NFT з відкритим вихідним кодом.
 
 ### Мости
 
@@ -116,10 +120,14 @@
 
 - [aleo/token](https://github.com/AleoHQ/aleo/tree/testnet3/examples/token) -  Приклад власного активу Aleo
 - [ARC20 draft](https://github.com/Entropy1729/ARC20_leo) - Чернетка пропозиції токену ARC20
+- [ARC-721 Draft](https://github.com/AleoHQ/ARCs/discussions/36) - Проект пропозиції ARC-721.
+- [AtomiK](https://github.com/AtomicZK/atomiK-protocol) - DEX, що здійснює атомні обміни між ланцюгами з ZK для надання ліквідності, збільшуючи безпеку мосту між Aleo та XDC (ланцюгами, сумісними з EVM).
+- [AleoSwap](https://github.com/aleoswap-labs/aleoswap) - Децентралізована біржа (DEX), побудована на блокчейні Aleo.
 
 ### Провідники
 
 - [Aleo Explorer](https://www.aleo.network/) - Офіційний провідник блокчейну для Aleo
+- [Hamp Explorer](https://explorer.hamp.app/) - Алео-експлоратор Харуки (Haruka)
 
 ### Ідентичність та аутентифікація
 
@@ -130,14 +138,17 @@
 - [Spruce DID Kit](https://www.spruceid.dev/didkit/didkit-examples/core-functions-with-aleo) - Видача та перевірка перевірених відомостей за допомогою акаунтів Aleo
     - [Spruce Fireside Chat](https://www.youtube.com/watch?v=9L9xSxgvuX8&ab_channel=Aleo) - Бесіда з командою Spruce
 - [zkDrop](https://github.com/4sm-ops/zkDrop/) - Концепція цифрового ID та безпечного обміну файлами на основі Aleo
+- [ANS](https://github.com/S-T-Soft/aleo-name-service-contract) - Сервіс іменування Aleo
 
 ### Ігри
 
+- [Zenet](https://github.com/ZenetGame/ZenetAleo) - Давньоєгипетська гра Сенет на Алео
 - [Battleship](https://github.com/demox-labs/zk-battleship) - Морський бій з ZK на Aleo
 - [CoinFlip](https://github.com/demox-labs/zk-coinflip) - 2-стороннє рандомне підкидання монети на Aleo
 - [Roulette](https://github.com/Entropy1729/aleo_roulette) - Веб-додаток рулетки, побудований на основі Aleo
 - [leo/tictactoe](https://github.com/AleoHQ/leo/tree/testnet3/examples/tictactoe) - Реалізація гри в хрестики-нулики в Leo
 - [Boloney](https://github.com/Kryha/boloney) - Онлайн багатокористувацька гра в кубики, яка демонструє потенціал платформи ZKP Aleo
+- [ZK Gaming Toolkit](https://github.com/Kryha/zk-gaming-toolkit) - Інструментарій з різноманітними готовими примітивами, написаними на Leo для ігор на ZK
 - [ZK Commitments for atomic Sudoku swaps](https://github.com/dorebell/zksudoku) - Умовні платежі Грега Максвелла з нульовими знаннями
 - [Aleo Monopoly](https://github.com/Elexy101/Aleo-Monopoly) - Проста гра в Монополію, написана на Leo
 - [Aleo Wordle](https://github.com/pineappleworkshop/aleo-zordle) - Wordle на Aleo
@@ -157,6 +168,12 @@
 
 - [neural network inference and leo program generator](https://github.com/zeroknowledgetutorials/leo-neural-networks) - Реалізація інференції нейронної мережі в Leo та програма Python для генерації коду Leo для інференції нейронної мережі
 - [numerical optimization example](https://github.com/vicsn/leo-numerical-optimization) - Приклад реалізації доказу того, що навчання моделі пройшло успішно відносно певного набору даних, без необхідності доказувати весь слід навчання.
+- [zero knowledge linear regression model](https://github.com/kpandl/leo-linear-regression)
+- [leo <> python language transpiler](https://github.com/snowtigersoft/run_leo)
+- [proof of concept KYC platform using zkML](https://github.com/B1boid/zk-KYC)
+- [leo <> python language transpiler](https://github.com/stakemepro/aleo-zkml-initiative-1)
+- [transpiler for python compatible boosting models](https://github.com/Danielto1404/aleo-boosting)
+- [zkML models on Aleo](https://github.com/storswiftlabs/zkML)
 
 ### Майданчики для торгівлі
 
@@ -167,6 +184,5 @@
 - [Aleo Faucet](https://faucet.aleo.org) - The official Aleo Testnet Faucet
 - [Metamask Snap - Aleo](https://piotr-roslaniec.github.io/aleo-snap/) - Розширення гаманця, сумісне з MetaMask, для облікових записів Aleo
 - [(Unofficial) Account SDK](https://github.com/qqmee/aleo-sdk) - Неофіційний SDK для облікового запису Aleo
-- [Aleo Wallet](https://chrome.google.com/webstore/detail/aleo-wallet/gnebojbimjelkmlfifljmilecfnonhnc?hl=en) - Розширення для Chrome для гаманця Aleo
 - [Leo Wallet](https://leo.app/) - Простий і приватний гаманець для Aleo. Зараз відкрито ранній доступ до списку очікування.
 - [Leo Wallet Adapter SDK](https://github.com/demox-labs/aleo-wallet-adapter) - SDK для інтеграції з гаманцем Leo
