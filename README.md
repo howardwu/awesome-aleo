@@ -11,29 +11,29 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 
 ## Table of Contents
 
-- [Announcements & News](#announcements--news)
-- [Presentations & Talks](#presentations--talks)
-- [Research Papers & Resources](#research-papers--resources)
+- [Table of Contents](#table-of-contents)
+- [Announcements \& News](#announcements--news)
+- [Presentations \& Talks](#presentations--talks)
+- [Research Papers \& Resources](#research-papers--resources)
 - [Core Libraries](#core-libraries)
 - [Development Tools](#development-tools)
-    - [Decompilers](#decompilers)
-    - [Hardware Acceleration](#hardware-acceleration)
-    - [Playgrounds](#playgrounds)
-    - [Syntax Highlighters](#syntax-highlighters)
-    - [Python Developer Tooling](#python-developer-tooling)
+  - [Decompilers](#decompilers)
+  - [Hardware Acceleration](#hardware-acceleration)
+  - [Playgrounds](#playgrounds)
+  - [Syntax Highlighters](#syntax-highlighters)
+  - [Python Developer Tooling](#python-developer-tooling)
 - [Applications](#applications)
-    - [Algorithms](#algorithms)
-    - [Art](#art)
-    - [Bridging](#bridging)
-    - [Decentralized Finance (DeFi)](#decentralized-finance-defi)
-    - [Explorers](#explorers)
-    - [Identity & Authentication](#identity--authentication)
-    - [Gaming](#gaming)
-    - [Governance](#governance)
-    - [Machine Learning](#machine-learning)
-    - [Marketplaces](#marketplaces)
-    - [Oracles](#oracles)
-    - [Wallets](#wallets)
+  - [Algorithms](#algorithms)
+  - [Art](#art)
+  - [Bridging](#bridging)
+  - [Decentralized Finance (DeFi)](#decentralized-finance-defi)
+  - [Explorers](#explorers)
+  - [Identity \& Authentication](#identity--authentication)
+  - [Gaming](#gaming)
+  - [Governance](#governance)
+  - [Machine Learning](#machine-learning)
+  - [Marketplaces](#marketplaces)
+  - [Wallets](#wallets)
 
 ## Announcements & News
 
@@ -101,7 +101,7 @@ The following is a curated list of applications powered by Aleo.
 ### Algorithms
 
 - [fixed-point numbers](https://github.com/zeroknowledgetutorials/leo-fixed-point-numbers) - An implementation of fixed-point numbers and calculations in Leo
-- [is_prime](https://github.com/arosboro/is_prime) - An Aleo program to issue prime tokens 
+- [is_prime](https://github.com/arosboro/is_prime) - An Aleo program to issue prime tokens
 - [leo/bubblesort](https://github.com/AleoHQ/leo/tree/testnet3/examples/bubblesort) - A bubble-sort algorithm implementation in Leo
 - [leo/groups](https://github.com/AleoHQ/leo/tree/testnet3/examples/groups) - An example of group operations in Leo
 - [leo/twoadicity](https://github.com/AleoHQ/leo/tree/testnet3/examples/twoadicity) - An implementation of computing the two-adicity in Leo
@@ -118,6 +118,7 @@ The following is a curated list of applications powered by Aleo.
 ### Bridging
 
 - [Eclipse](https://github.com/eqlabs/eclipse) - Bridging ecosystems by storing zero-knowledge proofs of Solana votes on Aleo
+- [Izar](https://github.com/izar-bridge/izar) - A privacy-preserving cross-chain interoperability protocol between Ethereum and Aleo
 
 ### Decentralized Finance (DeFi)
 
