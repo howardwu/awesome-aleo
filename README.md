@@ -118,7 +118,7 @@ The following is a curated list of applications powered by Aleo.
 ### Bridging
 
 - [Eclipse](https://github.com/eqlabs/eclipse) - Bridging ecosystems by storing zero-knowledge proofs of Solana votes on Aleo
-- [Izar](https://github.com/izar-bridge/izar) - A privacy-preserving cross-chain interoperability protocol between Ethereum and Aleo
+- [IZAR](https://github.com/izar-bridge/aleo-contracts) - A privacy-preserving cross-chain interoperability protocol between Ethereum and Aleo
 
 ### Decentralized Finance (DeFi)
 
