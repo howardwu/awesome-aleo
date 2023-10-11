@@ -22,6 +22,7 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
   - [Playgrounds](#playgrounds)
   - [Syntax Highlighters](#syntax-highlighters)
   - [Python Developer Tooling](#python-developer-tooling)
+  - [Security](#security)
 - [Applications](#applications)
   - [Algorithms](#algorithms)
   - [Art](#art)
@@ -93,6 +94,10 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 
 ### Python Developer Tooling
 - [Leo Program Runner](https://github.com/snowtigersoft/run_leo) - Python hooks to load and execute Leo programs
+
+### Security
+- [Vanguard for Aleo](https://github.com/Veridise-Partnerships/miniguard-aleo) - Static analyzer for Leo/Aleo programs
+  - [aleo2llvm](https://github.com/Veridise-Partnerships/aleo2llvm) - Compiler for Aleo -> LLVM
 
 ## Applications
 
