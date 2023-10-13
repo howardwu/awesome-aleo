@@ -88,7 +88,6 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 
 - [IntelliJ - Leo](https://plugins.jetbrains.com/plugin/19890-aleo-developer) - The official Leo plugin for IntelliJ
 - [Sublime Text - Leo](https://packagecontrol.io/packages/LSP-leo) - The official Leo plugin for Sublime Text
-- [Sublime Text - Aleo](https://github.com/AleoHQ/aleo/tree/testnet3/sublime) - An unofficial Aleo plugin for Sublime Text
 - [VSCode - Leo](https://marketplace.visualstudio.com/items?itemName=aleohq.leo-extension) - The official Leo plugin for VSCode
 - [vim - Aleo](https://github.com/julesdesmit/aleo.vim) - An unofficial Vim plugin for Aleo instructions
 
