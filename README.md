@@ -11,29 +11,30 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 
 ## Table of Contents
 
-- [Announcements & News](#announcements--news)
-- [Presentations & Talks](#presentations--talks)
-- [Research Papers & Resources](#research-papers--resources)
+- [Table of Contents](#table-of-contents)
+- [Announcements \& News](#announcements--news)
+- [Presentations \& Talks](#presentations--talks)
+- [Research Papers \& Resources](#research-papers--resources)
 - [Core Libraries](#core-libraries)
 - [Development Tools](#development-tools)
-    - [Decompilers](#decompilers)
-    - [Hardware Acceleration](#hardware-acceleration)
-    - [Playgrounds](#playgrounds)
-    - [Syntax Highlighters](#syntax-highlighters)
-    - [Python Developer Tooling](#python-developer-tooling)
+  - [Decompilers](#decompilers)
+  - [Hardware Acceleration](#hardware-acceleration)
+  - [Playgrounds](#playgrounds)
+  - [Syntax Highlighters](#syntax-highlighters)
+  - [Python Developer Tooling](#python-developer-tooling)
+  - [Security](#security)
 - [Applications](#applications)
-    - [Algorithms](#algorithms)
-    - [Art](#art)
-    - [Bridging](#bridging)
-    - [Decentralized Finance (DeFi)](#decentralized-finance-defi)
-    - [Explorers](#explorers)
-    - [Identity & Authentication](#identity--authentication)
-    - [Gaming](#gaming)
-    - [Governance](#governance)
-    - [Machine Learning](#machine-learning)
-    - [Marketplaces](#marketplaces)
-    - [Oracles](#oracles)
-    - [Wallets](#wallets)
+  - [Algorithms](#algorithms)
+  - [Art](#art)
+  - [Bridging](#bridging)
+  - [Decentralized Finance (DeFi)](#decentralized-finance-defi)
+  - [Explorers](#explorers)
+  - [Identity \& Authentication](#identity--authentication)
+  - [Gaming](#gaming)
+  - [Governance](#governance)
+  - [Machine Learning](#machine-learning)
+  - [Marketplaces](#marketplaces)
+  - [Wallets](#wallets)
 
 ## Announcements & News
 
@@ -87,12 +88,15 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 
 - [IntelliJ - Leo](https://plugins.jetbrains.com/plugin/19890-aleo-developer) - The official Leo plugin for IntelliJ
 - [Sublime Text - Leo](https://packagecontrol.io/packages/LSP-leo) - The official Leo plugin for Sublime Text
-- [Sublime Text - Aleo](https://github.com/AleoHQ/aleo/tree/testnet3/sublime) - An unofficial Aleo plugin for Sublime Text
 - [VSCode - Leo](https://marketplace.visualstudio.com/items?itemName=aleohq.leo-extension) - The official Leo plugin for VSCode
 - [vim - Aleo](https://github.com/julesdesmit/aleo.vim) - An unofficial Vim plugin for Aleo instructions
 
 ### Python Developer Tooling
 - [Leo Program Runner](https://github.com/snowtigersoft/run_leo) - Python hooks to load and execute Leo programs
+
+### Security
+- [Vanguard for Aleo](https://github.com/Veridise-Partnerships/miniguard-aleo) - Static analyzer for Leo/Aleo programs
+  - [aleo2llvm](https://github.com/Veridise-Partnerships/aleo2llvm) - Compiler for Aleo -> LLVM
 
 ## Applications
 
@@ -101,7 +105,7 @@ The following is a curated list of applications powered by Aleo.
 ### Algorithms
 
 - [fixed-point numbers](https://github.com/zeroknowledgetutorials/leo-fixed-point-numbers) - An implementation of fixed-point numbers and calculations in Leo
-- [is_prime](https://github.com/arosboro/is_prime) - An Aleo program to issue prime tokens 
+- [is_prime](https://github.com/arosboro/is_prime) - An Aleo program to issue prime tokens
 - [leo/bubblesort](https://github.com/AleoHQ/leo/tree/testnet3/examples/bubblesort) - A bubble-sort algorithm implementation in Leo
 - [leo/groups](https://github.com/AleoHQ/leo/tree/testnet3/examples/groups) - An example of group operations in Leo
 - [leo/twoadicity](https://github.com/AleoHQ/leo/tree/testnet3/examples/twoadicity) - An implementation of computing the two-adicity in Leo
@@ -118,6 +122,7 @@ The following is a curated list of applications powered by Aleo.
 ### Bridging
 
 - [Eclipse](https://github.com/eqlabs/eclipse) - Bridging ecosystems by storing zero-knowledge proofs of Solana votes on Aleo
+- [IZAR](https://github.com/izar-bridge/aleo-contracts) - A privacy-preserving cross-chain interoperability protocol between Ethereum and Aleo
 
 ### Decentralized Finance (DeFi)
 
@@ -179,6 +184,7 @@ The following is a curated list of applications powered by Aleo.
 - [Boosting Models](https://github.com/Danielto1404/aleo-boosting) - Privacy preserving ML using Boosting models on Aleo
 - [Gini Coefficient, Decision Tree, K-Means](https://github.com/storswiftlabs/zkML) - A library of machine learning algorithms implemented in Leo
 - [zkKYC](https://github.com/B1boid/zk-KYC) - KYC platform using zkML (Zero-knowledge Machine Learning) algorithms on Aleo blockchain.
+- [Zero Gravity](https://github.com/zkp-gravity/0g) - Proving an inference pass for a public Weightless Neural Network run on a private input.
 
 ### Marketplaces
 
@@ -193,3 +199,4 @@ The following is a curated list of applications powered by Aleo.
 - [Leo Wallet Adapter SDK](https://github.com/demox-labs/aleo-wallet-adapter) - A SDK for integrating with the Leo wallet
 - [Soter Aleo Wallet](https://chrome.google.com/webstore/detail/soter-aleo-wallet/kfpmpkkjaohgchlokcohbaokindffdjk) - A chrome extention wallet for the Aleo blockchain.
 - [Aleo Acceleration Service](https://github.com/Aleo123Dev/aleo-acceleration-service) - A node provider application built with the Tauri framework. 
+- [Avail](https://avail.global) - A mobile wallet on Aleo focused on enabling real world use of private self custody. 
