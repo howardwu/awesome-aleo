@@ -131,6 +131,7 @@ The following is a curated list of applications powered by Aleo.
 - [ARC-721 Draft](https://github.com/AleoHQ/ARCs/discussions/36) - An ARC-721 draft proposal
 - [AtomiK](https://github.com/AtomicZK/atomiK-protocol) - DEX doing cross-chain atomic swaps with ZK for liquidity providing, increasing security in bridging between Aleo & XDC (EVM compatible chains).
 - [AleoSwap](https://github.com/aleoswap-labs/aleoswap) - A decentralized exchange (DEX) built on the Aleo blockchain
+- [Arcane Finance](https://github.com/arcane-finance-defi/rfq-aleo-dex) - A privacy-centric decentralized exchange (DEX) combining both RFQ and AMM models on Aleo
 
 ### Explorers
 
