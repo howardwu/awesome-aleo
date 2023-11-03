@@ -20,6 +20,7 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
   - [Decompilers](#decompilers)
   - [Hardware Acceleration](#hardware-acceleration)
   - [Playgrounds](#playgrounds)
+  - [Frontend](#frontend)
   - [Syntax Highlighters](#syntax-highlighters)
   - [Python Developer Tooling](#python-developer-tooling)
   - [Security](#security)
@@ -83,6 +84,9 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 ### Playgrounds
 
 - [Leo Playground](https://play.leo-lang.org/) - The official playground for Leo programs
+
+### Frontend
+- [Aleo-Hooks](https://github.com/aleo-hooks/aleo-hooks) - React hooks library that simplifies developing Aleo React dApps for popular wallets
 
 ### Syntax Highlighters
 
