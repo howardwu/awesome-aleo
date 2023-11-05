@@ -86,7 +86,7 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 - [Leo Playground](https://play.leo-lang.org/) - The official playground for Leo programs
 
 ### Frontend
-- [Aleo Hooks](https://github.com/aleo-hooks/aleo-hooks) - React hooks library that simplifies developing Aleo React dApps for popular wallets
+- [Aleo Hooks](https://github.com/OrdosHQ/aleo-hooks) - React hooks library that simplifies developing Aleo React dApps for popular wallets
 
 ### Syntax Highlighters
 
