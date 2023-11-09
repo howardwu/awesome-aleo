@@ -124,6 +124,10 @@ The following is a curated list of applications powered by Aleo.
 - [Eclipse](https://github.com/eqlabs/eclipse) - Bridging ecosystems by storing zero-knowledge proofs of Solana votes on Aleo
 - [IZAR](https://github.com/izar-bridge/aleo-contracts) - A privacy-preserving cross-chain interoperability protocol between Ethereum and Aleo
 
+### Platforms
+
+- [Guarded Feedback]("https://guarded-feedback.com) - A platform for earning by submitting feedback transparently and privacy-preserving
+
 ### Decentralized Finance (DeFi)
 
 - [aleo/token](https://github.com/AleoHQ/aleo/tree/testnet3/examples/token) - An Aleo custom asset example
