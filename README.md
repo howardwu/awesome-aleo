@@ -167,6 +167,7 @@ The following is a curated list of applications powered by Aleo.
 - [Sudoku, Wordle, and Trivia](https://github.com/ruizehung/Zero-Knowledge-Sudoku-Wordle-Trivia) - Sudoku, Wordle, and Trivia in Leo
 - [ZK Stratego](https://github.com/evan-schott/zk-stratego) A game of Stratego, themed as a crypto company
 - [QuizGame](https://github.com/liolikus/QuizGame) Simple and fully documented React-based Quiz Game
+- [Onchain VRF](https://github.com/onchain-vrf/aleo-onchain-vrf) An Onchain Verifiable Random Function for on-chain turn based games.
 
 ### Governance
 
