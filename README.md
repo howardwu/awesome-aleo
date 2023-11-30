@@ -190,6 +190,7 @@ The following is a curated list of applications powered by Aleo.
 ### Marketplaces
 
 - [leo/auction](https://github.com/AleoHQ/leo/tree/testnet3/examples/auction) - An auction record format built in Leo
+- [Anonymous Rating Survey)(https://github.com/CredLancer/CredLancer_Aleo)- A program to add anonymous ratings to Dapps
 
 ### Wallets
 
