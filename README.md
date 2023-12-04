@@ -92,9 +92,11 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 - [vim - Aleo](https://github.com/julesdesmit/aleo.vim) - An unofficial Vim plugin for Aleo instructions
 
 ### Python Developer Tooling
+
 - [Leo Program Runner](https://github.com/snowtigersoft/run_leo) - Python hooks to load and execute Leo programs
 
 ### Security
+
 - [Vanguard for Aleo](https://github.com/Veridise-Partnerships/miniguard-aleo) - Static analyzer for Leo/Aleo programs
   - [aleo2llvm](https://github.com/Veridise-Partnerships/aleo2llvm) - Compiler for Aleo -> LLVM
 
@@ -142,14 +144,15 @@ The following is a curated list of applications powered by Aleo.
 ### Identity & Authentication
 
 - [Nemean](https://github.com/AleoHQ/nemean) - A CLI and SDK for custodians and engineers to interact with the Aleo network
-    - [Introducing Nemean](https://blog.pinestreetlabs.com/pine-street-labs-aleo-introducing-nemean/) - Blog post written by Pine Street Labs explaining Nemean
-    - [Aleo Grant Recipient: Pine Street Labs](https://www.aleo.org/post/aleo-grants-pine-street-labs) - Transcript interview with Pine Street Labs
-    - [Pine Street Labs Fireside Chat](https://www.youtube.com/watch?v=B4lqbuyNozU&ab_channel=Aleo) - Fireside chat with the Pine Street Labs team
+  - [Introducing Nemean](https://blog.pinestreetlabs.com/pine-street-labs-aleo-introducing-nemean/) - Blog post written by Pine Street Labs explaining Nemean
+  - [Aleo Grant Recipient: Pine Street Labs](https://www.aleo.org/post/aleo-grants-pine-street-labs) - Transcript interview with Pine Street Labs
+  - [Pine Street Labs Fireside Chat](https://www.youtube.com/watch?v=B4lqbuyNozU&ab_channel=Aleo) - Fireside chat with the Pine Street Labs team
 - [Spruce DID Kit](https://www.spruceid.dev/didkit/didkit-examples/core-functions-with-aleo) - Issuance and verification of verifiable credentials using Aleo accounts
-    - [Spruce Fireside Chat](https://www.youtube.com/watch?v=9L9xSxgvuX8&ab_channel=Aleo) - Fireside chat with the Spruce team
+  - [Spruce Fireside Chat](https://www.youtube.com/watch?v=9L9xSxgvuX8&ab_channel=Aleo) - Fireside chat with the Spruce team
 - [zkDrop](https://github.com/4sm-ops/zkDrop/) - Digital ID and secure file sharing concept based on Aleo
 - [ANS](https://github.com/S-T-Soft/aleo-name-service-contract) - The Aleo Naming Service
 - [zkKYC](https://github.com/B1boid/zk-KYC) - A privacy preserving Know Your Customer (KYC) application built on Aleo.
+- [Alei](https://alei.ssiprotocol.com) - Leo apps secured by Tyron Social Recovery.
 
 ### Gaming
 
@@ -198,4 +201,4 @@ The following is a curated list of applications powered by Aleo.
 - [(Unofficial) Account SDK](https://github.com/qqmee/aleo-sdk) - An unofficial account SDK for Aleo
 - [Leo Wallet](https://leo.app/) - A simple and private wallet for Aleo. Early access waitlist now open.
 - [Leo Wallet Adapter SDK](https://github.com/demox-labs/aleo-wallet-adapter) - A SDK for integrating with the Leo wallet
-- [Avail](https://avail.global) - A mobile wallet on Aleo focused on enabling real world use of private self custody. 
+- [Avail](https://avail.global) - A mobile wallet on Aleo focused on enabling real world use of private self custody.
