@@ -150,6 +150,7 @@ The following is a curated list of applications powered by Aleo.
 - [zkDrop](https://github.com/4sm-ops/zkDrop/) - Digital ID and secure file sharing concept based on Aleo
 - [ANS](https://github.com/S-T-Soft/aleo-name-service-contract) - The Aleo Naming Service
 - [zkKYC](https://github.com/B1boid/zk-KYC) - A privacy preserving Know Your Customer (KYC) application built on Aleo.
+- [AleoGuard](https://github.com/gitshreevatsa/AleoGuard) - A Privacy driven Identity aggregator for plug-and-play SSO built on Aleo
 
 ### Gaming
 
