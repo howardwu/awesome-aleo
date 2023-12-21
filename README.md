@@ -198,4 +198,5 @@ The following is a curated list of applications powered by Aleo.
 - [(Unofficial) Account SDK](https://github.com/qqmee/aleo-sdk) - An unofficial account SDK for Aleo
 - [Leo Wallet](https://leo.app/) - A simple and private wallet for Aleo. Early access waitlist now open.
 - [Leo Wallet Adapter SDK](https://github.com/demox-labs/aleo-wallet-adapter) - A SDK for integrating with the Leo wallet
-- [Avail](https://avail.global) - A mobile wallet on Aleo focused on enabling real world use of private self custody. 
+- [Avail](https://avail.global) - A mobile wallet on Aleo focused on enabling real world use of private self custody.
+- [Coffer](https://github.com/coffer-aleo/coffer-wallet) - Multisig Smart Contract Wallet on Aleo 
