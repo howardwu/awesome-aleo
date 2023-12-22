@@ -186,6 +186,7 @@ The following is a curated list of applications powered by Aleo.
 - [Gini Coefficient, Decision Tree, K-Means](https://github.com/storswiftlabs/zkML) - A library of machine learning algorithms implemented in Leo
 - [zkKYC](https://github.com/B1boid/zk-KYC) - KYC platform using zkML (Zero-knowledge Machine Learning) algorithms on Aleo blockchain.
 - [Zero Gravity](https://github.com/zkp-gravity/0g) - Proving an inference pass for a public Weightless Neural Network run on a private input.
+- [Leo Quantization](https://github.com/storswiftlabs/leo-quantization) - Use quantized data in the zkML program in Leo and perform operations on quantized data.
 
 ### Marketplaces
 
