@@ -132,6 +132,7 @@ The following is a curated list of applications powered by Aleo.
 - [AtomiK](https://github.com/AtomicZK/atomiK-protocol) - DEX doing cross-chain atomic swaps with ZK for liquidity providing, increasing security in bridging between Aleo & XDC (EVM compatible chains).
 - [AleoSwap](https://github.com/aleoswap-labs/aleoswap) - A decentralized exchange (DEX) built on the Aleo blockchain
 - [Arcane Finance](https://github.com/arcane-finance-defi/rfq-aleo-dex) - A privacy-centric decentralized exchange (DEX) combining both RFQ and AMM models on Aleo
+- [DistroFund](https://github.com/weichain/DistroFund) - A Decentralized application that enables an end user to send a token to multiple addresses in a single transaction. 
 
 ### Explorers
 
