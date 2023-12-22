@@ -200,4 +200,6 @@ The following is a curated list of applications powered by Aleo.
 - [(Unofficial) Account SDK](https://github.com/qqmee/aleo-sdk) - An unofficial account SDK for Aleo
 - [Leo Wallet](https://leo.app/) - A simple and private wallet for Aleo. Early access waitlist now open.
 - [Leo Wallet Adapter SDK](https://github.com/demox-labs/aleo-wallet-adapter) - A SDK for integrating with the Leo wallet
+- [Soter Aleo Wallet](https://chrome.google.com/webstore/detail/soter-aleo-wallet/kfpmpkkjaohgchlokcohbaokindffdjk) - A chrome extention wallet for the Aleo blockchain.
+- [Aleo Acceleration Service](https://github.com/Aleo123Dev/aleo-acceleration-service) - A node provider application built with the Tauri framework. 
 - [Avail](https://avail.global) - A mobile wallet on Aleo focused on enabling real world use of private self custody. 
