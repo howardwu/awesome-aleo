@@ -95,7 +95,8 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 - [Leo Program Runner](https://github.com/snowtigersoft/run_leo) - Python hooks to load and execute Leo programs
 
 ### Security
-- [Vanguard for Aleo](https://github.com/Veridise-Partnerships/miniguard-aleo) - Static analyzer for Leo/Aleo programs
+- [Vanguard for Aleo](https://github.com/Veridise/vanguard-aleo) - Static analyzer for Leo/Aleo programs
+  - [aleo2json](https://github.com/Veridise/aleo2json) - Compiler for Aleo -> JSON
   - [aleo2llvm](https://github.com/Veridise-Partnerships/aleo2llvm) - Compiler for Aleo -> LLVM
 
 ## Applications
