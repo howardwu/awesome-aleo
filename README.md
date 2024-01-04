@@ -35,8 +35,8 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
   - [Machine Learning](#machine-learning)
   - [Marketplaces](#marketplaces)
   - [Wallets](#wallets)
-- [Infrastructure](#)
-  - [API Providers](#)
+- [Infrastructure](#infrastructure)
+  - [API Providers](#api-providers)
 
 ## Announcements & News
 
