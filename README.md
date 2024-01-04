@@ -35,6 +35,8 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
   - [Machine Learning](#machine-learning)
   - [Marketplaces](#marketplaces)
   - [Wallets](#wallets)
+- [Infrastructure](#)
+  - [API Providers](#)
 
 ## Announcements & News
 
@@ -205,3 +207,10 @@ The following is a curated list of applications powered by Aleo.
 - [Leo Wallet Adapter SDK](https://github.com/demox-labs/aleo-wallet-adapter) - A SDK for integrating with the Leo wallet
 - [Avail](https://avail.global) - A mobile wallet on Aleo focused on enabling real world use of private self custody.
 - [Coffer](https://github.com/coffer-aleo/coffer-wallet) - Multisig Smart Contract Wallet on Aleo 
+
+## Infrastructure
+
+### API Providers
+
+- [Aleo API Endpoint](https://api.explorer.aleo.org/v1/testnet3) - Official API endpoint operated and maintained by Aleo. 
+- [AlphaZK](https://alphazk.com) - AlphaZK provides APIs to build and scale web3 apps on private smart contract blockchains like Aleo.
