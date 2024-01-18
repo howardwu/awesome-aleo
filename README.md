@@ -135,7 +135,8 @@ The following is a curated list of applications powered by Aleo.
 - [AleoSwap](https://github.com/aleoswap-labs/aleoswap) - A decentralized exchange (DEX) built on the Aleo blockchain
 - [Arcane Finance](https://github.com/arcane-finance-defi/rfq-aleo-dex) - A privacy-centric decentralized exchange (DEX) combining both RFQ and AMM models on Aleo
 - [AleoPad](https://aleopad.com/)
-- [DistroFund](https://github.com/weichain/DistroFund) - A Decentralized application that enables an end user to send a token to multiple addresses in a single transaction. 
+- [DistroFund](https://github.com/weichain/DistroFund) - A Decentralized application that enables an end user to send a token to multiple addresses in a single transaction.
+- [Privx](https://github.com/privx-exchange/privx-exchange-contract) - The First Orderbook DEX with On-chain Privacy on Aleo
 
 ### Explorers
 
