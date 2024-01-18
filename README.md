@@ -92,6 +92,7 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 - [vim - Aleo](https://github.com/julesdesmit/aleo.vim) - An unofficial Vim plugin for Aleo instructions
 
 ### Python Developer Tooling
+
 - [Leo Program Runner](https://github.com/snowtigersoft/run_leo) - Python hooks to load and execute Leo programs
 
 ### Security
@@ -133,6 +134,7 @@ The following is a curated list of applications powered by Aleo.
 - [AtomiK](https://github.com/AtomicZK/atomiK-protocol) - DEX doing cross-chain atomic swaps with ZK for liquidity providing, increasing security in bridging between Aleo & XDC (EVM compatible chains).
 - [AleoSwap](https://github.com/aleoswap-labs/aleoswap) - A decentralized exchange (DEX) built on the Aleo blockchain
 - [Arcane Finance](https://github.com/arcane-finance-defi/rfq-aleo-dex) - A privacy-centric decentralized exchange (DEX) combining both RFQ and AMM models on Aleo
+- [AleoPad](https://aleopad.com/)
 - [DistroFund](https://github.com/weichain/DistroFund) - A Decentralized application that enables an end user to send a token to multiple addresses in a single transaction. 
 
 ### Explorers
@@ -144,11 +146,11 @@ The following is a curated list of applications powered by Aleo.
 ### Identity & Authentication
 
 - [Nemean](https://github.com/AleoHQ/nemean) - A CLI and SDK for custodians and engineers to interact with the Aleo network
-    - [Introducing Nemean](https://blog.pinestreetlabs.com/pine-street-labs-aleo-introducing-nemean/) - Blog post written by Pine Street Labs explaining Nemean
-    - [Aleo Grant Recipient: Pine Street Labs](https://www.aleo.org/post/aleo-grants-pine-street-labs) - Transcript interview with Pine Street Labs
-    - [Pine Street Labs Fireside Chat](https://www.youtube.com/watch?v=B4lqbuyNozU&ab_channel=Aleo) - Fireside chat with the Pine Street Labs team
+  - [Introducing Nemean](https://blog.pinestreetlabs.com/pine-street-labs-aleo-introducing-nemean/) - Blog post written by Pine Street Labs explaining Nemean
+  - [Aleo Grant Recipient: Pine Street Labs](https://www.aleo.org/post/aleo-grants-pine-street-labs) - Transcript interview with Pine Street Labs
+  - [Pine Street Labs Fireside Chat](https://www.youtube.com/watch?v=B4lqbuyNozU&ab_channel=Aleo) - Fireside chat with the Pine Street Labs team
 - [Spruce DID Kit](https://www.spruceid.dev/didkit/didkit-examples/core-functions-with-aleo) - Issuance and verification of verifiable credentials using Aleo accounts
-    - [Spruce Fireside Chat](https://www.youtube.com/watch?v=9L9xSxgvuX8&ab_channel=Aleo) - Fireside chat with the Spruce team
+  - [Spruce Fireside Chat](https://www.youtube.com/watch?v=9L9xSxgvuX8&ab_channel=Aleo) - Fireside chat with the Spruce team
 - [zkDrop](https://github.com/4sm-ops/zkDrop/) - Digital ID and secure file sharing concept based on Aleo
 - [ANS](https://github.com/S-T-Soft/aleo-name-service-contract) - The Aleo Naming Service
 - [zkKYC](https://github.com/B1boid/zk-KYC) - A privacy preserving Know Your Customer (KYC) application built on Aleo.
