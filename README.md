@@ -96,8 +96,8 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 - [Leo Program Runner](https://github.com/snowtigersoft/run_leo) - Python hooks to load and execute Leo programs
 
 ### Security
-
-- [Vanguard for Aleo](https://github.com/Veridise-Partnerships/miniguard-aleo) - Static analyzer for Leo/Aleo programs
+- [Vanguard for Aleo](https://github.com/Veridise/vanguard-aleo) - Static analyzer for Leo/Aleo programs
+  - [aleo2json](https://github.com/Veridise/aleo2json) - Compiler for Aleo -> JSON
   - [aleo2llvm](https://github.com/Veridise-Partnerships/aleo2llvm) - Compiler for Aleo -> LLVM
 
 ## Applications
@@ -134,6 +134,9 @@ The following is a curated list of applications powered by Aleo.
 - [AtomiK](https://github.com/AtomicZK/atomiK-protocol) - DEX doing cross-chain atomic swaps with ZK for liquidity providing, increasing security in bridging between Aleo & XDC (EVM compatible chains).
 - [AleoSwap](https://github.com/aleoswap-labs/aleoswap) - A decentralized exchange (DEX) built on the Aleo blockchain
 - [Arcane Finance](https://github.com/arcane-finance-defi/rfq-aleo-dex) - A privacy-centric decentralized exchange (DEX) combining both RFQ and AMM models on Aleo
+- [AleoPad](https://aleopad.com/)
+- [DistroFund](https://github.com/weichain/DistroFund) - A Decentralized application that enables an end user to send a token to multiple addresses in a single transaction.
+- [Privx](https://github.com/privx-exchange/privx-exchange-contract) - The First Orderbook DEX with On-chain Privacy on Aleo
 
 ### Explorers
 
@@ -152,6 +155,7 @@ The following is a curated list of applications powered by Aleo.
 - [zkDrop](https://github.com/4sm-ops/zkDrop/) - Digital ID and secure file sharing concept based on Aleo
 - [ANS](https://github.com/S-T-Soft/aleo-name-service-contract) - The Aleo Naming Service
 - [zkKYC](https://github.com/B1boid/zk-KYC) - A privacy preserving Know Your Customer (KYC) application built on Aleo.
+- [AleoGuard](https://github.com/gitshreevatsa/AleoGuard) - A Privacy driven Identity aggregator for plug-and-play SSO built on Aleo
 - [Alei](https://alei.ssiprotocol.com) - Leo apps secured by Tyron Social Recovery.
 
 ### Gaming
@@ -170,6 +174,7 @@ The following is a curated list of applications powered by Aleo.
 - [Sudoku, Wordle, and Trivia](https://github.com/ruizehung/Zero-Knowledge-Sudoku-Wordle-Trivia) - Sudoku, Wordle, and Trivia in Leo
 - [ZK Stratego](https://github.com/evan-schott/zk-stratego) A game of Stratego, themed as a crypto company
 - [QuizGame](https://github.com/liolikus/QuizGame) Simple and fully documented React-based Quiz Game
+- [Onchain VRF](https://github.com/onchain-vrf/aleo-onchain-vrf) An Onchain Verifiable Random Function for on-chain turn based games.
 
 ### Governance
 
@@ -189,10 +194,12 @@ The following is a curated list of applications powered by Aleo.
 - [Gini Coefficient, Decision Tree, K-Means](https://github.com/storswiftlabs/zkML) - A library of machine learning algorithms implemented in Leo
 - [zkKYC](https://github.com/B1boid/zk-KYC) - KYC platform using zkML (Zero-knowledge Machine Learning) algorithms on Aleo blockchain.
 - [Zero Gravity](https://github.com/zkp-gravity/0g) - Proving an inference pass for a public Weightless Neural Network run on a private input.
+- [Leo Quantization](https://github.com/storswiftlabs/leo-quantization) - Use quantized data in the zkML program in Leo and perform operations on quantized data.
 
 ### Marketplaces
 
 - [leo/auction](https://github.com/AleoHQ/leo/tree/testnet3/examples/auction) - An auction record format built in Leo
+- [Anonymous Rating Survey)(https://github.com/CredLancer/CredLancer_Aleo)- A program to add anonymous ratings to Dapps
 
 ### Wallets
 
@@ -202,3 +209,4 @@ The following is a curated list of applications powered by Aleo.
 - [Leo Wallet](https://leo.app/) - A simple and private wallet for Aleo. Early access waitlist now open.
 - [Leo Wallet Adapter SDK](https://github.com/demox-labs/aleo-wallet-adapter) - A SDK for integrating with the Leo wallet
 - [Avail](https://avail.global) - A mobile wallet on Aleo focused on enabling real world use of private self custody.
+- [Coffer](https://github.com/coffer-aleo/coffer-wallet) - Multisig Smart Contract Wallet on Aleo
