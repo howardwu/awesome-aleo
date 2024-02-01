@@ -212,6 +212,7 @@ The following is a curated list of applications powered by Aleo.
 - [Puzzle Wallet](https://puzzle.online/) - A mobile and extension wallet with Aleo Account Abstraction to explore Aleo, play zkGames & earn rewards
 - [Puzzle SDK](https://docs.puzzle.online/) - A SDK for integrating with Puzzle, Avail and any other WalletConnect based wallets.
 - [Aleo Wallet Connect Standards](https://docs.puzzle.online/sdk-free/overview/) - A walletconnect standard for Aleo wallets
+- [iOS Swift Aleo Wallet Starter Kit](https://github.com/puzzlehq/zksummit_ios_workshop) - A workshop & repo for getting started making your own Aleo iOS client
 - [Metamask Snap - Aleo](https://github.com/bide-dev/aleo-wallet-snap) - A MetaMask-compatible wallet extension for Aleo accounts
 - [(Unofficial) Account SDK](https://github.com/qqmee/aleo-sdk) - An unofficial account SDK for Aleo
 - [Leo Wallet](https://leo.app/) - A simple and private wallet for Aleo. Early access waitlist now open.
