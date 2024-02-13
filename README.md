@@ -137,6 +137,7 @@ The following is a curated list of applications powered by Aleo.
 - [AleoPad](https://aleopad.com/)
 - [DistroFund](https://github.com/weichain/DistroFund) - A Decentralized application that enables an end user to send a token to multiple addresses in a single transaction.
 - [Privx](https://github.com/privx-exchange/privx-exchange-contract) - The First Orderbook DEX with On-chain Privacy on Aleo
+- [Staking.xyz](https://staking.xyz/) - Making staking easy for everyone, starting with Aleo!
 
 ### Explorers
 
