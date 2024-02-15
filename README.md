@@ -161,7 +161,7 @@ The following is a curated list of applications powered by Aleo.
 ### Gaming
 
 - [Where's Alex](https://github.com/puzzlehq/wheres_alex) - A multiparty hidden information game on Aleo
-- [Treasure Hunt](https://treasures.puzzle.online/) multiparty hidden information game --built using Puzzle SDK for zkGames and Puzzle's game bot infrastructure
+- [Treasure Hunt](https://treasures.puzzle.online/) - A multiparty hidden treasure hunt game on Aleo
 - [Super Leo Ligue](https://aleo-fortune.vercel.app/) Play classic roulette and more onchain -- built using Puzzle SDK for zkGames
 - [Aleo Fortune](https://superleolig.vercel.app/) challenge a friend to an onchain soccer game with hidden strategies -- built using Puzzle SDK for zkGames
 - [Puzzle SDK for zkGames](https://docs.puzzle.online/tutorials/build_your_first_zkgame/) purpose built SDK for building multiparty hidden information games on Aleo by the Puzzle Wallet team 
