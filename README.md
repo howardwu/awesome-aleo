@@ -164,7 +164,7 @@ The following is a curated list of applications powered by Aleo.
 - [Treasure Hunt](https://treasures.puzzle.online/) - A multiparty hidden treasure hunt game on Aleo
 - [Super Leo Ligue](https://aleo-fortune.vercel.app/) - Play classic casino games like roulette and more on Aleo
 - [Aleo Fortune](https://superleolig.vercel.app/) - Challenge a friend to an onchain soccer game with hidden strategies
-- [Puzzle SDK for zkGames](https://docs.puzzle.online/tutorials/build_your_first_zkgame/) purpose built SDK for building multiparty hidden information games on Aleo by the Puzzle Wallet team 
+- [Puzzle SDK for zkGames](https://docs.puzzle.online/tutorials/build_your_first_zkgame/) - A SDK for building multiparty hidden information games on Aleo
 - [Zenet](https://github.com/ZenetGame/ZenetAleo) - The ancient Egyptian game of Senet on Aleo
 - [Battleship](https://github.com/demox-labs/zk-battleship) - ZK Battleship on Aleo
 - [CoinFlip](https://github.com/demox-labs/zk-coinflip) - A 2-party random coin flip on Aleo
