@@ -160,6 +160,11 @@ The following is a curated list of applications powered by Aleo.
 
 ### Gaming
 
+- [Where's Alex](https://github.com/puzzlehq/wheres_alex) - A multiparty hidden information game on Aleo
+- [Treasure Hunt](https://treasures.puzzle.online/) - A multiparty hidden treasure hunt game on Aleo
+- [Super Leo Ligue](https://aleo-fortune.vercel.app/) - Play classic casino games like roulette and more on Aleo
+- [Aleo Fortune](https://superleolig.vercel.app/) - Challenge a friend to an onchain soccer game with hidden strategies
+- [Puzzle SDK for zkGames](https://docs.puzzle.online/tutorials/build_your_first_zkgame/) - A SDK for building multiparty hidden information games on Aleo
 - [Zenet](https://github.com/ZenetGame/ZenetAleo) - The ancient Egyptian game of Senet on Aleo
 - [Battleship](https://github.com/demox-labs/zk-battleship) - ZK Battleship on Aleo
 - [CoinFlip](https://github.com/demox-labs/zk-coinflip) - A 2-party random coin flip on Aleo
@@ -204,6 +209,10 @@ The following is a curated list of applications powered by Aleo.
 ### Wallets
 
 - [Aleo Faucet](https://faucet.aleo.org) - The official Aleo Testnet Faucet
+- [Puzzle Wallet](https://puzzle.online/) - A mobile and extension wallet with Aleo Account Abstraction to explore Aleo, play zkGames & earn rewards
+- [Puzzle SDK](https://docs.puzzle.online/) - A SDK for integrating with Puzzle, Avail and any other WalletConnect based wallets.
+- [Aleo Wallet Connect Standards](https://docs.puzzle.online/sdk-free/overview/) - A walletconnect standard for Aleo wallets
+- [iOS Swift Aleo Wallet Starter Kit](https://github.com/puzzlehq/zksummit_ios_workshop) - A workshop & repo for getting started making your own Aleo iOS client
 - [Metamask Snap - Aleo](https://github.com/bide-dev/aleo-wallet-snap) - A MetaMask-compatible wallet extension for Aleo accounts
 - [(Unofficial) Account SDK](https://github.com/qqmee/aleo-sdk) - An unofficial account SDK for Aleo
 - [Leo Wallet](https://leo.app/) - A simple and private wallet for Aleo. Early access waitlist now open.
