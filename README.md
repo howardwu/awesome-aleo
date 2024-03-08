@@ -181,6 +181,7 @@ The following is a curated list of applications powered by Aleo.
 - [ZK Stratego](https://github.com/evan-schott/zk-stratego) A game of Stratego, themed as a crypto company
 - [QuizGame](https://github.com/liolikus/QuizGame) Simple and fully documented React-based Quiz Game
 - [Onchain VRF](https://github.com/onchain-vrf/aleo-onchain-vrf) An Onchain Verifiable Random Function for on-chain turn based games.
+- [Memorygame](https://github.com/microbecode/zk-memorygame) A card guessing game on Aleo
 
 ### Governance
 
