@@ -23,6 +23,7 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
   - [Syntax Highlighters](#syntax-highlighters)
   - [Python Developer Tooling](#python-developer-tooling)
   - [Security](#security)
+  - [Learning Examples](#learning-examples)
 - [Applications](#applications)
   - [Algorithms](#algorithms)
   - [Art](#art)
@@ -99,6 +100,10 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 - [Vanguard for Aleo](https://github.com/Veridise/vanguard-aleo) - Static analyzer for Leo/Aleo programs
   - [aleo2json](https://github.com/Veridise/aleo2json) - Compiler for Aleo -> JSON
   - [aleo2llvm](https://github.com/Veridise-Partnerships/aleo2llvm) - Compiler for Aleo -> LLVM
+
+### Learning Examples
+
+- [Leo Leaning smart contract collection](https://github.com/kehiy/sc-collection/tree/main/aleo%20(snarkVM))
 
 ## Applications
 
