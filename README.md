@@ -158,6 +158,7 @@ The following is a curated list of applications powered by Aleo.
 - [zkKYC](https://github.com/B1boid/zk-KYC) - A privacy preserving Know Your Customer (KYC) application built on Aleo.
 - [AleoGuard](https://github.com/gitshreevatsa/AleoGuard) - A Privacy driven Identity aggregator for plug-and-play SSO built on Aleo
 - [Alei](https://alei.ssiprotocol.com) - Leo apps secured by Tyron Social Recovery.
+- [Aleo Privacy Pool using zkpID](https://github.com/etoneclab/zkpid-aleo-demo) Demo for threshold-based, privacy-preserving & KYC-ed Aleo transactions using a privacy pool.
 
 ### Gaming
 
