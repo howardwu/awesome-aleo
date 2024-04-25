@@ -34,6 +34,7 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
   - [Governance](#governance)
   - [Machine Learning](#machine-learning)
   - [Marketplaces](#marketplaces)
+  - [Oracles](#oracles)
   - [Wallets](#wallets)
 
 ## Announcements & News
@@ -207,6 +208,10 @@ The following is a curated list of applications powered by Aleo.
 
 - [leo/auction](https://github.com/AleoHQ/leo/tree/testnet3/examples/auction) - An auction record format built in Leo
 - [Anonymous Rating Survey)(https://github.com/CredLancer/CredLancer_Aleo)- A program to add anonymous ratings to Dapps
+
+### Oracles
+
+- [Aleo Oracle](https://docs.aleooracle.xyz) - A general purpose, TEE-based blockchain oracle for Aleo 
 
 ### Wallets
 
