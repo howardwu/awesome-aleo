@@ -95,6 +95,10 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 
 - [Leo Program Runner](https://github.com/snowtigersoft/run_leo) - Python hooks to load and execute Leo programs
 
+### Rust Developer Tooling
+
+- [Aleo Rust Agent](https://github.com/C-B-Elite/aleo-agent) - aleo-agent is a simple-to-use library to interact with the Aleo Network in Rust
+
 ### Security
 - [Vanguard for Aleo](https://github.com/Veridise/vanguard-aleo) - Static analyzer for Leo/Aleo programs
   - [aleo2json](https://github.com/Veridise/aleo2json) - Compiler for Aleo -> JSON
