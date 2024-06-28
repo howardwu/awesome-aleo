@@ -182,6 +182,7 @@ The following is a curated list of applications powered by Aleo.
 - [QuizGame](https://github.com/liolikus/QuizGame) Simple and fully documented React-based Quiz Game
 - [Onchain VRF](https://github.com/onchain-vrf/aleo-onchain-vrf) An Onchain Verifiable Random Function for on-chain turn based games.
 - [Memorygame](https://github.com/microbecode/zk-memorygame) A card guessing game on Aleo
+- [Heads or Tails](https://github.com/DyxaDevelop/headsortails.aleo) Aleo Game
 
 ### Governance
 
