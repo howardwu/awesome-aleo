@@ -82,7 +82,7 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 
 ### Playgrounds
 
-- [Leo Playground](https://play.leo-lang.org/) - The official playground for Leo programs
+- [Leo Playground](https://play.leo-lang.org/) - The official playground for Leo programs 
 
 ### Syntax Highlighters
 
