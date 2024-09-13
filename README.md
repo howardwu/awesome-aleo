@@ -126,6 +126,7 @@ The following is a curated list of applications powered by Aleo.
 
 - [Eclipse](https://github.com/eqlabs/eclipse) - Bridging ecosystems by storing zero-knowledge proofs of Solana votes on Aleo
 - [IZAR](https://github.com/izar-bridge/aleo-contracts) - A privacy-preserving cross-chain interoperability protocol between Ethereum and Aleo
+- [Verulink](https://github.com/venture23-aleo/verulink) - A trusted bridge platform that is designed to help move assets like ETH, USDC, and USDT between Aleo and Ethereum blockchain.
 
 ### Decentralized Finance (DeFi)
 
