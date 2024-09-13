@@ -96,6 +96,10 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 
 - [Leo Program Runner](https://github.com/snowtigersoft/run_leo) - Python hooks to load and execute Leo programs
 
+### Testing Toolkit
+
+- [DokoJS](https://github.com/venture23-aleo/doko-js/tree/main) - Powerful and lightweight library designed for seamless interaction with the Aleo blockchain
+
 ### Security
 - [Vanguard for Aleo](https://github.com/Veridise/vanguard-aleo) - Static analyzer for Leo/Aleo programs
   - [aleo2json](https://github.com/Veridise/aleo2json) - Compiler for Aleo -> JSON
