@@ -22,6 +22,7 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
   - [Playgrounds](#playgrounds)
   - [Syntax Highlighters](#syntax-highlighters)
   - [Python Developer Tooling](#python-developer-tooling)
+  - [Testing Toolkit](#testing-toolkit)
   - [Security](#security)
 - [Applications](#applications)
   - [Algorithms](#algorithms)
@@ -165,8 +166,8 @@ The following is a curated list of applications powered by Aleo.
 - [zkKYC](https://github.com/B1boid/zk-KYC) - A privacy preserving Know Your Customer (KYC) application built on Aleo.
 - [AleoGuard](https://github.com/gitshreevatsa/AleoGuard) - A Privacy driven Identity aggregator for plug-and-play SSO built on Aleo
 - [Alei](https://alei.ssiprotocol.com) - Leo apps secured by Tyron Social Recovery.
-- [Aleo Privacy Pool using zkpID](https://github.com/etoneclab/zkpid-aleo-demo) Demo for threshold-based, privacy-preserving & KYC-ed Aleo transactions using a privacy pool.
-- [Aleo Voice Mail](https://github.com/Elexy101/Aleo-Voice-Mail) The Aleo voice text program is designed for sending voice messages between two users(sender/receiver) on the Aleo blockchain.
+- [Aleo Privacy Pool using zkpID](https://github.com/etoneclab/zkpid-aleo-demo) - A demo for threshold-based, privacy-preserving & KYC-ed Aleo transactions using a privacy pool.
+- [Aleo Voice Mail](https://github.com/Elexy101/Aleo-Voice-Mail) - A voice text program designed for sending voice messages between two users (sender/receiver) on Aleo.
 
 ### Gaming
 
@@ -185,13 +186,13 @@ The following is a curated list of applications powered by Aleo.
 - [ZK Commitments for atomic Sudoku swaps](https://github.com/dorebell/zksudoku) - Greg Maxwell’s Zero Knowledge Contingent Payments
 - [Aleo Monopoly](https://github.com/Elexy101/Aleo-Monopoly) - Simple game of Monopoly written in Leo
 - [Aleo Wordle](https://github.com/pineappleworkshop/aleo-zordle) - Wordle on Aleo
-- [Rock, Paper, Scissors](https://github.com/pineappleworkshop/aleo-roshambo) - Rock, Paper, Scissors on Aleo
-- [Sudoku, Wordle, and Trivia](https://github.com/ruizehung/Zero-Knowledge-Sudoku-Wordle-Trivia) - Sudoku, Wordle, and Trivia in Leo
-- [ZK Stratego](https://github.com/evan-schott/zk-stratego) A game of Stratego, themed as a crypto company
-- [QuizGame](https://github.com/liolikus/QuizGame) Simple and fully documented React-based Quiz Game
-- [Onchain VRF](https://github.com/onchain-vrf/aleo-onchain-vrf) An Onchain Verifiable Random Function for on-chain turn based games.
-- [Memorygame](https://github.com/microbecode/zk-memorygame) A card guessing game on Aleo
-- [Heads or Tails](https://github.com/DyxaDevelop/headsortails.aleo) Aleo Game
+- [Rock, Paper, Scissors](https://github.com/pineappleworkshop/aleo-roshambo) - Rock, Paper, Scissors on Aleo.
+- [Sudoku, Wordle, and Trivia](https://github.com/ruizehung/Zero-Knowledge-Sudoku-Wordle-Trivia) - Sudoku, Wordle, and Trivia in Leo.
+- [ZK Stratego](https://github.com/evan-schott/zk-stratego) - A game of Stratego, themed as a crypto company.
+- [QuizGame](https://github.com/liolikus/QuizGame) - Simple and fully documented React-based Quiz Game.
+- [Onchain VRF](https://github.com/onchain-vrf/aleo-onchain-vrf) - An on-chain Verifiable Random Function (VRF) for on-chain, turn-based games.
+- [Memorygame](https://github.com/microbecode/zk-memorygame) - A card guessing game on Aleo.
+- [Heads or Tails](https://github.com/DyxaDevelop/headsortails.aleo) - A heads-or-tails game on Aleo.
 
 ### Governance
 
