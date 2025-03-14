@@ -117,7 +117,7 @@ The following is a curated list of applications powered by Aleo.
 - [leo/bubblesort](https://github.com/AleoHQ/leo/tree/testnet3/examples/bubblesort) - A bubble-sort algorithm implementation in Leo
 - [leo/groups](https://github.com/AleoHQ/leo/tree/testnet3/examples/groups) - An example of group operations in Leo
 - [leo/twoadicity](https://github.com/AleoHQ/leo/tree/testnet3/examples/twoadicity) - An implementation of computing the two-adicity in Leo
-- [leo-elgamal](https://github.com/aerius-labs/leo-elgamal) - Multiplicative homomorphic encryption using ElGamal
+- [leo-elgamal](https://github.com/ewynx/leo-elgamal) - Multiplicative homomorphic encryption using ElGamal
 
 ### Art
 
@@ -135,13 +135,12 @@ The following is a curated list of applications powered by Aleo.
 
 ### Decentralized Finance (DeFi)
 
-- [aleo/token](https://github.com/AleoHQ/aleo/tree/testnet3/examples/token) - An Aleo custom asset example
+- [leo/token](https://github.com/ProvableHQ/leo-examples/tree/main/token) - An Aleo custom asset example
 - [ARC20 draft](https://github.com/Entropy1729/ARC20_leo) - An ARC20 token draft proposal
-- [ARC-721 Draft](https://github.com/AleoHQ/ARCs/discussions/36) - An ARC-721 draft proposal
+- [ARC0721](https://github.com/ProvableHQ/ARCs/tree/master/arc-0721) - An ARC-721 implementation
 - [AtomiK](https://github.com/AtomicZK/atomiK-protocol) - DEX doing cross-chain atomic swaps with ZK for liquidity providing, increasing security in bridging between Aleo & XDC (EVM compatible chains).
 - [AleoSwap](https://github.com/aleoswap-labs/aleoswap) - A decentralized exchange (DEX) built on the Aleo blockchain
 - [Arcane Finance](https://github.com/arcane-finance-defi/rfq-aleo-dex) - A privacy-centric decentralized exchange (DEX) combining both RFQ and AMM models on Aleo
-- [AleoPad](https://aleopad.com/)
 - [DistroFund](https://github.com/weichain/DistroFund) - A Decentralized application that enables an end user to send a token to multiple addresses in a single transaction.
 - [Privx](https://github.com/privx-exchange/privx-exchange-contract) - The First Orderbook DEX with On-chain Privacy on Aleo
 - [Staking.xyz](https://staking.xyz/) - Making staking easy for everyone, starting with Aleo!
@@ -157,8 +156,6 @@ The following is a curated list of applications powered by Aleo.
 ### Identity & Authentication
 
 - [Nemean](https://github.com/AleoHQ/nemean) - A CLI and SDK for custodians and engineers to interact with the Aleo network
-  - [Introducing Nemean](https://blog.pinestreetlabs.com/pine-street-labs-aleo-introducing-nemean/) - Blog post written by Pine Street Labs explaining Nemean
-  - [Aleo Grant Recipient: Pine Street Labs](https://www.aleo.org/post/aleo-grants-pine-street-labs) - Transcript interview with Pine Street Labs
   - [Pine Street Labs Fireside Chat](https://www.youtube.com/watch?v=B4lqbuyNozU&ab_channel=Aleo) - Fireside chat with the Pine Street Labs team
 - [Spruce DID Kit](https://www.spruceid.dev/didkit/didkit-examples/core-functions-with-aleo) - Issuance and verification of verifiable credentials using Aleo accounts
   - [Spruce Fireside Chat](https://www.youtube.com/watch?v=9L9xSxgvuX8&ab_channel=Aleo) - Fireside chat with the Spruce team
@@ -173,9 +170,7 @@ The following is a curated list of applications powered by Aleo.
 ### Gaming
 
 - [Where's Alex](https://github.com/puzzlehq/wheres_alex) - A multiparty hidden information game on Aleo
-- [Treasure Hunt](https://treasures.puzzle.online/) - A multiparty hidden treasure hunt game on Aleo
 - [Super Leo Lig](https://superleolig.online/) - - Challenge a friend to an on-chain soccer game with hidden strategies
-- [Aleo Fortune](https://aleo-fortune.vercel.app/) - Play classic casino games like roulette and more on Aleo
 - [Puzzle SDK for zkGames](https://docs.puzzle.online/tutorials/build_your_first_zkgame/) - A SDK for building multiparty hidden information games on Aleo
 - [Zenet](https://github.com/ZenetGame/ZenetAleo) - The ancient Egyptian game of Senet on Aleo
 - [Battleship](https://github.com/demox-labs/zk-battleship) - ZK Battleship on Aleo
@@ -218,7 +213,7 @@ The following is a curated list of applications powered by Aleo.
 ### Marketplaces
 
 - [leo/auction](https://github.com/AleoHQ/leo/tree/testnet3/examples/auction) - An auction record format built in Leo
-- [Anonymous Rating Survey)(https://github.com/CredLancer/CredLancer_Aleo)- A program to add anonymous ratings to Dapps
+- [Anonymous Rating Survey](https://github.com/CredLancer/CredLancer_Aleo) - A program to add anonymous ratings to Dapps
 
 ### Oracles
 
@@ -235,6 +230,6 @@ The following is a curated list of applications powered by Aleo.
 - [(Unofficial) Account SDK](https://github.com/qqmee/aleo-sdk) - An unofficial account SDK for Aleo
 - [Leo Wallet](https://leo.app/) - A simple and private wallet for Aleo. Early access waitlist now open.
 - [Leo Wallet Adapter SDK](https://github.com/demox-labs/aleo-wallet-adapter) - A SDK for integrating with the Leo wallet
-- [Avail](https://avail.global) - A mobile wallet on Aleo focused on enabling real world use of private self custody.
+- [Avail](https://www.availproject.org/) - A mobile wallet on Aleo focused on enabling real world use of private self custody.
 - [Coffer](https://github.com/coffer-aleo/coffer-wallet) - Multisig Smart Contract Wallet on Aleo
 - [MetaMask Snap (Official)](https://snaps.metamask.io/snap/npm/chainsafe/aleo-snap/) - Official MetaMask Snap for Aleo
