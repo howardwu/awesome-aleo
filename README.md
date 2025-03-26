@@ -211,7 +211,7 @@ The following is a curated list of applications powered by Aleo.
 ### Wallets
 
 - [Aleo Faucet](https://faucet.aleo.org) - The official Aleo Testnet Faucet
-- [Aleo Faucet Soter](ttps://faucetbeta.sotertech.io/) - Request testnetbeta Aleo Tokens 
+- [Aleo Faucet Soter](https://faucetbeta.sotertech.io/) - Request Aleo Tokens from Soter on Testnet Beta
 - [Puzzle Wallet](https://puzzle.online/) - A mobile and extension wallet with Aleo Account Abstraction to explore Aleo, play zkGames & earn rewards
 - [Puzzle SDK](https://docs.puzzle.online/) - A SDK for integrating with Puzzle, Avail and any other WalletConnect based wallets.
 - [Aleo Wallet Connect Standards](https://docs.puzzle.online/sdk-free/overview/) - A walletconnect standard for Aleo wallets
