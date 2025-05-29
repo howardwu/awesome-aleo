@@ -145,6 +145,7 @@ The following is a curated list of applications powered by Aleo.
 - [Privx](https://github.com/privx-exchange/privx-exchange-contract) - The First Orderbook DEX with On-chain Privacy on Aleo
 - [Staking.xyz](https://staking.xyz/) - Making staking easy for everyone, starting with Aleo!
 - [Spectre](https://github.com/spectrehq/spectre) - Spectre liquidity protocol on Aleo: Stake credits, earn rewards, and borrow assets.
+- [Proof of Bitcoin](https://github.com/vicsn/snarkvm-btc-balance-verification/tree/ecdsa) - Proof of Bitcoin reserves on Aleo: lock sats, generate zero-knowledge proofs, and publicly verify whale balances—no double-spend, all private by design.
 
 ### Explorers
 
@@ -166,6 +167,7 @@ The following is a curated list of applications powered by Aleo.
 - [Alei](https://alei.ssiprotocol.com) - Leo apps secured by Tyron Social Recovery.
 - [Aleo Privacy Pool using zkpID](https://github.com/etoneclab/zkpid-aleo-demo) - A demo for threshold-based, privacy-preserving & KYC-ed Aleo transactions using a privacy pool.
 - [Aleo Voice Mail](https://github.com/Elexy101/Aleo-Voice-Mail) - A voice text program designed for sending voice messages between two users (sender/receiver) on Aleo.
+- [VerifAleo](https://github.com/esren0x/kycNFT) - Users mint an identity NFT with an expiry block so dApps can verify compliance without storing personal data
 
 ### Gaming
 
@@ -189,6 +191,9 @@ The following is a curated list of applications powered by Aleo.
 - [Onchain VRF](https://github.com/onchain-vrf/aleo-onchain-vrf) - An on-chain Verifiable Random Function (VRF) for on-chain, turn-based games.
 - [Memorygame](https://github.com/microbecode/zk-memorygame) - A card guessing game on Aleo.
 - [Heads or Tails](https://github.com/DyxaDevelop/headsortails.aleo) - A heads-or-tails game on Aleo.
+- [The Solo Gambit](https://github.com/mikebenfield/pawnstorm) - Chess with bombs: capture a piece and trigger a secret explosion zone that reshapes the board.
+- [RetroBeatz](https://github.com/wei-provable/midi-player) - A lightning quiz of retro game tunes—guess the soundtrack from a few bars of 8-bit or 16-bit nostalgia.
+- [Knightfall](https://github.com/dgrkotsonis/knightfall-aleo ) - Fog-of-war chess on Aleo
 
 ### Governance
 
@@ -214,10 +219,17 @@ The following is a curated list of applications powered by Aleo.
 
 - [leo/auction](https://github.com/AleoHQ/leo/tree/testnet3/examples/auction) - An auction record format built in Leo
 - [Anonymous Rating Survey](https://github.com/CredLancer/CredLancer_Aleo) - A program to add anonymous ratings to Dapps
+- [PriceProve](https://github.com/bendyarm/priceproof/tree/main/leo/price_proof_test_1) - On-chain price prediction markets secured by ZK proofs, so you can bet on future moves with absolute trust in the outcome.
+- [lodive](https://github.com/alexpitsikoulis/lodive) - A ticketing platform that issues encrypted, non-transferable passes.
 
 ### Oracles
 
-- [Aleo Oracle](https://docs.aleooracle.xyz) - A general purpose, TEE-based blockchain oracle for Aleo 
+- [Aleo Oracle](https://docs.aleooracle.xyz) - A general purpose, TEE-based blockchain oracle for Aleo
+- [snorkle](https://github.com/d0cd/snorkle) - A privacy-preserving oracle that securely brings real-world data on-chain 
+
+### Utility
+
+- [Daddy's Orders](https://github.com/christianwwwwwwww/daddys-orders) - Randomized, zero-knowledge ordering system
 
 ### Wallets
 
