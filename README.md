@@ -15,6 +15,7 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 - [Announcements \& News](#announcements--news)
 - [Presentations \& Talks](#presentations--talks)
 - [Research Papers \& Resources](#research-papers--resources)
+- [Workshops](#workshops)
 - [Core Libraries](#core-libraries)
 - [Development Tools](#development-tools)
   - [Decompilers](#decompilers)
@@ -35,8 +36,13 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
   - [Governance](#governance)
   - [Machine Learning](#machine-learning)
   - [Marketplaces](#marketplaces)
+  - [NFT Marketplaces \& Launchpads](#nft-marketplaces--launchpads)
+  - [NFT Infrastructure ](#nft-infrastructure)
+  - [Tools](#tools)
   - [Oracles](#oracles)
   - [Wallets](#wallets)
+  - [Wallet SDKs \& More](#wallet-sdks--more)
+  - [ZPass Integrations](#zpass-integrations)
 
 ## Announcements & News
 
@@ -61,6 +67,24 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 - [Poseidon](https://eprint.iacr.org/2019/458.pdf) - Poseidon: A New Hash Function for Zero-Knowledge Proof Systems
 - [AVM Opcodes](https://github.com/AleoHQ/ARCs/tree/master/arc-0002) - Aleo Virtual Machine (AVM) Opcodes
 - [PoNW](https://eprint.iacr.org/2020/190.pdf) - Proof of Necessary Work: Succinct State Verification with Fairness Guarantees
+
+---
+
+## Workshops
+
+- [zkWorkshop | Programming with Leo - Zero-Knowledge DSL](https://www.youtube.com/watch?v=8lMMAGKps9A) – Pranav Gaddamadugu, ETHDenver (2025) 
+- [zkWorkshop | Building Compliant Privacy-Preserving Tokens](https://www.youtube.com/watch?v=MnAZX4cn9kM) – Evan Marshall, ETHDenver (2025)
+- [zkWorkshop | Universal Wallet Integration on Aleo](https://www.youtube.com/watch?v=5PELenxPPO0) – Matt Wyatt, ETHDenver (2025)
+- [zkWorkshop | Scalable Private Identity Solutions with zPass](https://www.youtube.com/watch?v=lvQacYX-QIo) – ZK Lim, ETHDenver (2025)
+- [zkWorkshop | Building Private DeFi Applications](https://www.youtube.com/watch?v=2nXWH_j0Tus) – Max Sultakov, ETHDenver (2025)
+- [Technical Workshop by Laisha](https://www.youtube.com/watch?v=8RFpd8U2bHg) – House of ZK (2025)
+- [Building a Private dApp on Aleo](https://www.youtube.com/watch?v=slVmiwqNiRw) – Building Auction Program (2024)
+- [zPass and Verification Program Tutorial](https://www.youtube.com/watch?v=eZYw0q4Zans) –  zkWorkshop (2024)
+- [The Aleo Advantage presented by Anthony](https://www.youtube.com/watch?v=Dv0zcy4YZLs) – Blockchain Futurist Conference (2023)
+- [Aleo Workshop Part 1](https://www.youtube.com/watch?v=MN1vtf4q7GM) – ZK Hack (2022)
+- [Aleo Workshop Part 2](https://www.youtube.com/watch?v=gwLoMBXKswc) – ZK Hack (2022)
+
+---
 
 ## Core Libraries
 
@@ -100,6 +124,7 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
 ### Testing Toolkit
 
 - [DokoJS](https://github.com/venture23-aleo/doko-js/tree/main) - Powerful and lightweight library designed for seamless interaction with the Aleo blockchain
+- [Amareleo](https://github.com/kaxxa123/amareleo-chain) - Starting from the SnarkOS codebase, amareleo-chain delivers a minimal validator node for testing the deployment and execution of aleo programs
 
 ### Security
 - [Vanguard for Aleo](https://github.com/Veridise/vanguard-aleo) - Static analyzer for Leo/Aleo programs
@@ -145,6 +170,11 @@ The following is a curated list of applications powered by Aleo.
 - [Privx](https://github.com/privx-exchange/privx-exchange-contract) - The First Orderbook DEX with On-chain Privacy on Aleo
 - [Staking.xyz](https://staking.xyz/) - Making staking easy for everyone, starting with Aleo!
 - [Spectre](https://github.com/spectrehq/spectre) - Spectre liquidity protocol on Aleo: Stake credits, earn rewards, and borrow assets.
+- [Beta Staking](https://github.com/betastaking-labs) – Staking services  
+- [Brale.xyz](https://github.com/Brale-xyz) – DeFi services focused to stablecoins 
+- [Pondo.xyz](https://github.com/pondo-xyz) – Liquid staking service on Aleo
+- [LSP Finance](https://www.lsp.finance/) – Staking services
+- [Money Market](https://github.com/venture23-aleo/money-market) – *[In Development]*  
 - [Proof of Bitcoin](https://github.com/vicsn/snarkvm-btc-balance-verification/tree/ecdsa) - Proof of Bitcoin reserves on Aleo: lock sats, generate zero-knowledge proofs, and publicly verify whale balances—no double-spend, all private by design.
 
 ### Explorers
@@ -153,6 +183,7 @@ The following is a curated list of applications powered by Aleo.
 - [Hamp Explorer](https://explorer.hamp.app/) - Haruka's Aleo Explorer
 - [Aleo123 Explorer](https://Aleo123.io/) - Aleo123 Explorer
 - [Aleo Info Explorer](https://aleo.info/) - Aleo Info Explorer
+- [Aleo Box](https://aleobox.org/) – Discover applications on Aleo  
 
 ### Identity & Authentication
 
@@ -167,6 +198,8 @@ The following is a curated list of applications powered by Aleo.
 - [Alei](https://alei.ssiprotocol.com) - Leo apps secured by Tyron Social Recovery.
 - [Aleo Privacy Pool using zkpID](https://github.com/etoneclab/zkpid-aleo-demo) - A demo for threshold-based, privacy-preserving & KYC-ed Aleo transactions using a privacy pool.
 - [Aleo Voice Mail](https://github.com/Elexy101/Aleo-Voice-Mail) - A voice text program designed for sending voice messages between two users (sender/receiver) on Aleo.
+- [zkSign](https://github.com/lamdanghoang/zk_aleo) – Sign documents on Aleo
+- [Wise Pass](https://www.wisepass.co/) – Lifestyle platform  
 - [VerifAleo](https://github.com/esren0x/kycNFT) - Users mint an identity NFT with an expiry block so dApps can verify compliance without storing personal data
 
 ### Gaming
@@ -191,6 +224,9 @@ The following is a curated list of applications powered by Aleo.
 - [Onchain VRF](https://github.com/onchain-vrf/aleo-onchain-vrf) - An on-chain Verifiable Random Function (VRF) for on-chain, turn-based games.
 - [Memorygame](https://github.com/microbecode/zk-memorygame) - A card guessing game on Aleo.
 - [Heads or Tails](https://github.com/DyxaDevelop/headsortails.aleo) - A heads-or-tails game on Aleo.
+- [BotBusters](https://github.com/Kryha/bot-busters) – Chat and spot the bots
+- [zkPlanet](https://github.com/marlonedwards/zkPlanet) – A resource management and civilization game
+- [Treasure Hunt](https://treasures.puzzle.online/) – Hidden treasure hunts by Puzzle
 - [The Solo Gambit](https://github.com/mikebenfield/pawnstorm) - Chess with bombs: capture a piece and trigger a secret explosion zone that reshapes the board.
 - [RetroBeatz](https://github.com/wei-provable/midi-player) - A lightning quiz of retro game tunes—guess the soundtrack from a few bars of 8-bit or 16-bit nostalgia.
 - [Knightfall](https://github.com/dgrkotsonis/knightfall-aleo ) - Fog-of-war chess on Aleo
@@ -201,7 +237,9 @@ The following is a curated list of applications powered by Aleo.
 - [Aleo-Vote](https://github.com/zkprivacy/aleo-vote) - A ZK voting application on Aleo
 - [leo/vote](https://github.com/AleoHQ/leo/tree/testnet3/examples/vote) - An example propose and vote mechanism build using Leo
 - [ZK Suggestion Box](https://github.com/demox-labs/zk-suggestion-box) - An anonymous suggestion box built on Aleo
-
+- [zVote](https://github.com/zsociety-io/zvote) – ZK voting system  
+  - [zVote Official Site](https://www.zvote.io/)  
+  
 ### Machine Learning
 
 - [Neural Network Inference](https://github.com/zeroknowledgetutorials/leo-neural-networks) - An implementation of a neural network inference in Leo and Python
@@ -222,6 +260,23 @@ The following is a curated list of applications powered by Aleo.
 - [PriceProve](https://github.com/bendyarm/priceproof/tree/main/leo/price_proof_test_1) - On-chain price prediction markets secured by ZK proofs, so you can bet on future moves with absolute trust in the outcome.
 - [lodive](https://github.com/alexpitsikoulis/lodive) - A ticketing platform that issues encrypted, non-transferable passes.
 
+### NFT Marketplaces & Launchpads
+
+- [Arcane Launchpad](https://launchpad.arcane.finance/) – Launch new NFT projects  
+- [NFT Marketplace (Venture23)](https://venture23.io/) – In development  
+
+### NFT Infrastructure 
+
+- [Private NFT Mint](https://github.com/demox-labs/aleo-nft) – Mint in private  
+- [Data Custody Protocol](https://github.com/zsociety-io/aleo-dcp) – Secure data ownership via NFTs  
+
+### Tools
+
+- [Aleomail](https://www.aleomail.xyz/) – Private email on Aleo  
+- [Record Scanner](https://github.com/demox-labs/aleo-record-scanner) – Verify Aleo records  
+- [ZKGaming Kit](https://github.com/Kryha/zk-gaming-toolkit) – Pre-built ZK primitives  
+- [Obscura](https://obscura.build/) – Privacy-focused project  
+
 ### Oracles
 
 - [Aleo Oracle](https://docs.aleooracle.xyz) - A general purpose, TEE-based blockchain oracle for Aleo
@@ -233,16 +288,28 @@ The following is a curated list of applications powered by Aleo.
 
 ### Wallets
 
+- [Avail Wallet](https://github.com/AvailX/avail-wallet) – A mobile wallet on Aleo focused on enabling real world use of private self custody.
+- [Coffer](https://github.com/coffer-aleo/coffer-wallet) - Multisig Smart Contract Wallet on Aleo
+- [Leo Wallet](https://www.demoxlabs.xyz/) – A simple and private wallet for Aleo.
+- [Fox Wallet](https://foxwallet.com/) – Multi-chain extension & mobile wallet.
+- [Puzzle Wallet](https://puzzle.online/wallet) – A mobile and extension wallet with Aleo Account Abstraction to explore Aleo, play zkGames & earn rewards
+- [Soter Wallet](https://sotertech.io/) – Digital crypto wallet for Aleo blockchain 
+
+### Wallet SDKs & More
 - [Aleo Faucet](https://faucet.aleo.org) - The official Aleo Testnet Faucet
 - [Aleo Faucet Soter](https://faucetbeta.sotertech.io/) - Request Aleo Tokens from Soter on Testnet Beta
-- [Puzzle Wallet](https://puzzle.online/) - A mobile and extension wallet with Aleo Account Abstraction to explore Aleo, play zkGames & earn rewards
 - [Puzzle SDK](https://docs.puzzle.online/) - A SDK for integrating with Puzzle, Avail and any other WalletConnect based wallets.
+- [(Unofficial) Account SDK](https://github.com/qqmee/aleo-sdk) - An unofficial account SDK for Aleo
+- [Leo Wallet Adapter SDK](https://github.com/demox-labs/aleo-wallet-adapter) - A SDK for integrating with the Leo wallet
 - [Aleo Wallet Connect Standards](https://docs.puzzle.online/sdk-free/overview/) - A walletconnect standard for Aleo wallets
+- [Aleo Wallet Hooks](https://github.com/OrdosHQ/aleo-hooks) – Integrate Aleo wallets easily  
 - [iOS Swift Aleo Wallet Starter Kit](https://github.com/puzzlehq/zksummit_ios_workshop) - A workshop & repo for getting started making your own Aleo iOS client
 - [Metamask Snap - Aleo](https://github.com/bide-dev/aleo-wallet-snap) - A MetaMask-compatible wallet extension for Aleo accounts
-- [(Unofficial) Account SDK](https://github.com/qqmee/aleo-sdk) - An unofficial account SDK for Aleo
-- [Leo Wallet](https://leo.app/) - A simple and private wallet for Aleo. Early access waitlist now open.
-- [Leo Wallet Adapter SDK](https://github.com/demox-labs/aleo-wallet-adapter) - A SDK for integrating with the Leo wallet
-- [Avail](https://www.availproject.org/) - A mobile wallet on Aleo focused on enabling real world use of private self custody.
-- [Coffer](https://github.com/coffer-aleo/coffer-wallet) - Multisig Smart Contract Wallet on Aleo
 - [MetaMask Snap (Official)](https://snaps.metamask.io/snap/npm/chainsafe/aleo-snap/) - Official MetaMask Snap for Aleo
+
+### ZPass Integrations
+
+- [3oC (Three of Cups)](https://www.3oc.world/) – Zero-knowledge identity  
+- [WORLD3](https://world3.ai/) – ZK-enabled AI & privacy  
+- [PLAYSIDE.gg](https://www.playside.gg/) – ZK-powered gaming identity  
+- [GENIE (The Genius School8)](https://genii-dao.gitbook.io/geniidao-loose-leaf-white-paper) – ZK learning platform  
