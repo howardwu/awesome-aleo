@@ -42,7 +42,7 @@ If you'd like to contribute, please read [this](./CONTRIBUTING.md).
   - [Oracles](#oracles)
   - [Wallets](#wallets)
   - [Wallet SDKs \& More](#wallet-sdks--more)
-  - [zPass Integrations](#zpass-integrations)
+  - [ZPass Integrations](#zpass-integrations)
 
 ## Announcements & News
 
@@ -175,6 +175,7 @@ The following is a curated list of applications powered by Aleo.
 - [Pondo.xyz](https://github.com/pondo-xyz) – Liquid staking service on Aleo
 - [LSP Finance](https://www.lsp.finance/) – Staking services
 - [Money Market](https://github.com/venture23-aleo/money-market) – *[In Development]*  
+- [Proof of Bitcoin](https://github.com/vicsn/snarkvm-btc-balance-verification/tree/ecdsa) - Proof of Bitcoin reserves on Aleo: lock sats, generate zero-knowledge proofs, and publicly verify whale balances—no double-spend, all private by design.
 
 ### Explorers
 
@@ -199,6 +200,7 @@ The following is a curated list of applications powered by Aleo.
 - [Aleo Voice Mail](https://github.com/Elexy101/Aleo-Voice-Mail) - A voice text program designed for sending voice messages between two users (sender/receiver) on Aleo.
 - [zkSign](https://github.com/lamdanghoang/zk_aleo) – Sign documents on Aleo
 - [Wise Pass](https://www.wisepass.co/) – Lifestyle platform  
+- [VerifAleo](https://github.com/esren0x/kycNFT) - Users mint an identity NFT with an expiry block so dApps can verify compliance without storing personal data
 
 ### Gaming
 
@@ -225,7 +227,9 @@ The following is a curated list of applications powered by Aleo.
 - [BotBusters](https://github.com/Kryha/bot-busters) – Chat and spot the bots
 - [zkPlanet](https://github.com/marlonedwards/zkPlanet) – A resource management and civilization game
 - [Treasure Hunt](https://treasures.puzzle.online/) – Hidden treasure hunts by Puzzle
-- **GangWars** – *[In development]*  
+- [The Solo Gambit](https://github.com/mikebenfield/pawnstorm) - Chess with bombs: capture a piece and trigger a secret explosion zone that reshapes the board.
+- [RetroBeatz](https://github.com/wei-provable/midi-player) - A lightning quiz of retro game tunes—guess the soundtrack from a few bars of 8-bit or 16-bit nostalgia.
+- [Knightfall](https://github.com/dgrkotsonis/knightfall-aleo ) - Fog-of-war chess on Aleo
 
 ### Governance
 
@@ -253,6 +257,8 @@ The following is a curated list of applications powered by Aleo.
 
 - [leo/auction](https://github.com/AleoHQ/leo/tree/testnet3/examples/auction) - An auction record format built in Leo
 - [Anonymous Rating Survey](https://github.com/CredLancer/CredLancer_Aleo) - A program to add anonymous ratings to Dapps
+- [PriceProve](https://github.com/bendyarm/priceproof/tree/main/leo/price_proof_test_1) - On-chain price prediction markets secured by ZK proofs, so you can bet on future moves with absolute trust in the outcome.
+- [lodive](https://github.com/alexpitsikoulis/lodive) - A ticketing platform that issues encrypted, non-transferable passes.
 
 ### NFT Marketplaces & Launchpads
 
@@ -273,7 +279,12 @@ The following is a curated list of applications powered by Aleo.
 
 ### Oracles
 
-- [Aleo Oracle](https://docs.aleooracle.xyz) - A general purpose, TEE-based blockchain oracle for Aleo 
+- [Aleo Oracle](https://docs.aleooracle.xyz) - A general purpose, TEE-based blockchain oracle for Aleo
+- [snorkle](https://github.com/d0cd/snorkle) - A privacy-preserving oracle that securely brings real-world data on-chain 
+
+### Utility
+
+- [Daddy's Orders](https://github.com/christianwwwwwwww/daddys-orders) - Randomized, zero-knowledge ordering system
 
 ### Wallets
 
@@ -296,9 +307,9 @@ The following is a curated list of applications powered by Aleo.
 - [Metamask Snap - Aleo](https://github.com/bide-dev/aleo-wallet-snap) - A MetaMask-compatible wallet extension for Aleo accounts
 - [MetaMask Snap (Official)](https://snaps.metamask.io/snap/npm/chainsafe/aleo-snap/) - Official MetaMask Snap for Aleo
 
-### zPass Integrations
+### ZPass Integrations
 
 - [3oC (Three of Cups)](https://www.3oc.world/) – Zero-knowledge identity  
-- [WORLD3](https://world3.ai/) – zk-enabled AI & privacy  
-- [PLAYSIDE.gg](https://www.playside.gg/) – zk-powered gaming identity  
-- [GENIE (The Genius School8)](https://genii-dao.gitbook.io/geniidao-loose-leaf-white-paper) – zk learning platform  
+- [WORLD3](https://world3.ai/) – ZK-enabled AI & privacy  
+- [PLAYSIDE.gg](https://www.playside.gg/) – ZK-powered gaming identity  
+- [GENIE (The Genius School8)](https://genii-dao.gitbook.io/geniidao-loose-leaf-white-paper) – ZK learning platform  
