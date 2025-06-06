@@ -257,7 +257,7 @@ The following is a curated list of applications powered by Aleo.
 
 - [leo/auction](https://github.com/AleoHQ/leo/tree/testnet3/examples/auction) - An auction record format built in Leo
 - [Anonymous Rating Survey](https://github.com/CredLancer/CredLancer_Aleo) - A program to add anonymous ratings to Dapps
-- [PriceProve](https://github.com/bendyarm/priceproof/tree/main/leo/price_proof_test_1) - On-chain price prediction markets secured by ZK proofs, so you can bet on future moves with absolute trust in the outcome.
+- [PriceProof](https://github.com/bendyarm/priceproof/tree/main/leo/price_proof_test_1) - On-chain price prediction markets secured by ZK proofs, so you can bet on future moves with absolute trust in the outcome.
 - [lodive](https://github.com/alexpitsikoulis/lodive) - A ticketing platform that issues encrypted, non-transferable passes.
 
 ### NFT Marketplaces & Launchpads
