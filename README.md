@@ -268,7 +268,8 @@ The following is a curated list of applications powered by Aleo.
 ### NFT Infrastructure 
 
 - [Private NFT Mint](https://github.com/demox-labs/aleo-nft) – Mint in private  
-- [Data Custody Protocol](https://github.com/zsociety-io/aleo-dcp) – Secure data ownership via NFTs  
+- [Data Custody Protocol](https://github.com/zsociety-io/aleo-dcp) – Secure data ownership via NFTs
+- [IKnowSpots](https://github.com/IKnowSpots/application-aleo) - A privacy first event protocol on Aleo that issues NFT passes using claim codes or shortlists without exposing attendee data.
 
 ### Tools
 
